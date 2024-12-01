@@ -1,0 +1,40 @@
+# ------------
+# C extensions
+
+*.so
+
+# ------------
+# Windows Stuff
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# ------------
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----
+# Virtual Environment
+
+.venv/
+
+
+# ------------
+# Sublime
+
+*.sublime-workspace
+
+# ------------
+# Jupyter/IPython
+
+.ipynb_checkpoints/
+
+# ------------
+# Custom
+

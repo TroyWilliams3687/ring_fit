@@ -1,0 +1,20848 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1018
+  9
+$ACADMAINTVER
+  70
+6
+  9
+$DWGCODEPAGE
+  3
+
+  9
+$TITLE
+  1
+VectorDraw Document
+  9
+$INSBASE
+  10
+0
+  20
+0
+  30
+0
+  9
+$EXTMIN
+  10
+6899.798406183756
+  20
+-23443.591565332234
+  30
+-1049.9285
+  9
+$EXTMAX
+  10
+6914.9391582796788
+  20
+-23428.678585724643
+  30
+-1049.9285
+  9
+$LIMMIN
+  10
+0
+  20
+0
+  9
+$LIMMAX
+  10
+10
+  20
+10
+  9
+$ORTHOMODE
+  70
+0
+  9
+$REGENMODE
+  70
+1
+  9
+$FILLMODE
+  70
+1
+  9
+$QTEXTMODE
+  70
+0
+  9
+$MIRRTEXT
+  70
+1
+  9
+$LTSCALE
+  40
+1
+  9
+$ATTMODE
+  70
+1
+  9
+$TEXTSIZE
+  40
+0.2
+  9
+$TRACEWID
+  40
+0.05
+  9
+$TEXTSTYLE
+  7
+STANDARD
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$CECOLOR
+  62
+256
+  9
+$CELTSCALE
+  40
+1
+  9
+$DISPSILH
+  70
+0
+  9
+$DIMSCALE
+  40
+1
+  9
+$DIMASZ
+  40
+0.2
+  9
+$DIMEXO
+  40
+0.2
+  9
+$DIMRND
+  40
+0
+  9
+$DIMDLE
+  40
+0
+  9
+$DIMEXE
+  40
+0.05
+  9
+$DIMTP
+  40
+1
+  9
+$DIMTM
+  40
+1
+  9
+$DIMTXT
+  40
+1
+  9
+$DIMTSZ
+  40
+0.0
+  9
+$DIMTOL
+  70
+0
+  9
+$DIMLIM
+  70
+0
+  9
+$DIMTIH
+  70
+0
+  9
+$DIMTOH
+  70
+1
+  9
+$DIMSE1
+  70
+0
+  9
+$DIMSE2
+  70
+0
+  9
+$DIMTAD
+  70
+0
+  9
+$DIMZIN
+  70
+1
+  9
+$DIMBLK
+  1
+VDDIM_DEFAULT
+  9
+$DIMASO
+  70
+1
+  9
+$DIMSHO
+  70
+1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+  70
+0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+STANDARD
+  9
+$DIMCLRD
+  70
+0
+  9
+$DIMCLRE
+  70
+0
+  9
+$DIMCLRT
+  70
+0
+  9
+$DIMTFAC
+  40
+1
+  9
+$DIMSD1
+  70
+0
+  9
+$DIMSD2
+  70
+0
+  9
+$DIMTOLJ
+  70
+1
+  9
+$DIMTXSTY
+  7
+STANDARD
+  9
+$DIMAUNIT
+  70
+1
+  9
+$DIMADEC
+  70
+4
+  9
+$DIMAZIN
+  70
+0
+  9
+$DIMLUNIT
+  70
+2
+  9
+$LUNITS
+  70
+2
+  9
+$LUPREC
+  70
+4
+  9
+$FILLETRAD
+  40
+0
+  9
+$AUNITS
+  70
+1
+  9
+$AUPREC
+  70
+4
+  9
+$MENU
+  1
+
+  9
+$ELEVATION
+  40
+0
+  9
+$PELEVATION
+  40
+0
+  9
+$THICKNESS
+  40
+0
+  9
+$ANGBASE
+  50
+0
+  9
+$ANGDIR
+  70
+0
+  9
+$PDMODE
+  70
+2
+  9
+$PDSIZE
+  40
+1
+  9
+$PLINEWID
+  40
+0
+  9
+$SPLFRAME
+  70
+0
+  9
+$SPLINETYPE
+  70
+6
+  9
+$SPLINESEGS
+  70
+8
+  9
+$HANDSEED
+  5
+              2C3
+  9
+$SURFTAB1
+  70
+6
+  9
+$SURFTAB2
+  70
+6
+  9
+$SURFTYPE
+  70
+6
+  9
+$SURFU
+  70
+6
+  9
+$SURFV
+  70
+6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSXDIR
+  10
+1
+  20
+0
+  30
+0
+  9
+$UCSYDIR
+  10
+0
+  20
+1
+  30
+0
+  9
+$UCSORGTOP
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGBOTTOM
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGLEFT
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGRIGHT
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGFRONT
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGBACK
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSXDIR
+  10
+1
+  20
+0
+  30
+0
+  9
+$PUCSYDIR
+  10
+0
+  20
+1
+  30
+0
+  9
+$PUCSORGTOP
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGBOTTOM
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGLEFT
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGRIGHT
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGFRONT
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGBACK
+  10
+0
+  20
+0
+  30
+0
+  9
+$USERI1
+  70
+0
+  9
+$USERI2
+  70
+0
+  9
+$USERI3
+  70
+0
+  9
+$USERI4
+  70
+0
+  9
+$USERI5
+  70
+0
+  9
+$USERR1
+  40
+0
+  9
+$USERR2
+  40
+0
+  9
+$USERR3
+  40
+0
+  9
+$USERR4
+  40
+0
+  9
+$USERR5
+  40
+0
+  9
+$TILEMODE
+  70
+1
+  9
+$PINSBASE
+  10
+0
+  20
+0
+  30
+0
+  9
+$LWDISPLAY
+  290
+1
+  9
+$INSUNITS
+  70
+0
+  9
+$MEASUREMENT
+  70
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+  90
+0
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+  90
+0
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+IMAGE
+  2
+AcDbRasterImage
+  3
+ISM
+  90
+127
+  91
+1
+  280
+0
+  281
+1
+  0
+CLASS
+  1
+IMAGEDEF_REACTOR
+  2
+AcDbRasterImageDefReactor
+  3
+ObjectDBX Classes
+  90
+1
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+  90
+0
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+  90
+0
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+ARCALIGNEDTEXT
+  2
+AcDbArcAlignedText
+  3
+ATEXT|AutoCAD Express Tool|expresstools@autodesk.com
+  90
+0
+  91
+1
+  280
+0
+  281
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+FF
+  330
+0
+  100
+AcDbSymbolTable
+  70
+2
+  0
+VPORT
+  5
+100
+  330
+FF
+  100
+AcDbSymbolTableRecord
+  100
+AcDbViewportTableRecord
+  2
+*Active
+  70
+0
+  10
+0
+  20
+0
+  11
+1
+  21
+1
+  12
+-3.5334193893677366
+  22
+1.1193051867376198
+  13
+0
+  23
+0
+  14
+1
+  24
+1
+  15
+1
+  25
+1
+  16
+0
+  26
+0
+  36
+1
+  17
+0
+  27
+0
+  37
+-12.599337315542698
+  40
+28.365852953926332
+  41
+1
+  42
+50
+  43
+0
+  44
+0
+  50
+0
+  51
+0
+  71
+0
+  72
+100
+  73
+1
+  74
+3
+  75
+0
+  76
+0
+  77
+0
+  78
+0
+  281
+0
+  65
+1
+  110
+0
+  120
+0
+  130
+0
+  111
+1
+  121
+0
+  131
+0
+  112
+0
+  122
+1
+  132
+0
+  79
+0
+  146
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+101
+  330
+0
+  100
+AcDbSymbolTable
+  70
+8
+  0
+LTYPE
+  5
+1C
+  330
+101
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+BYLAYER
+  70
+0
+  3
+BYLAYER________________________________________
+  72
+65
+  73
+0
+  40
+0
+  0
+LTYPE
+  5
+1D
+  330
+101
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+BYBLOCK
+  70
+0
+  3
+BYBLOCK________________________________________
+  72
+65
+  73
+0
+  40
+0
+  0
+LTYPE
+  5
+1E
+  330
+101
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+DASHED0
+  70
+0
+  3
+Dashed0 __ __ __ __ __ __ __ __ __ __ __ __ __ _
+  72
+65
+  73
+2
+  40
+1
+  49
+0.5
+  74
+0
+  49
+-0.5
+  74
+0
+  0
+LTYPE
+  5
+1F
+  330
+101
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+DOT0
+  70
+0
+  3
+Dot0 ........................................
+  72
+65
+  73
+8
+  40
+1
+  49
+0
+  74
+0
+  49
+-0.25
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.25
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.25
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.25
+  74
+0
+  0
+LTYPE
+  5
+20
+  330
+101
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+DASHDOT0
+  70
+0
+  3
+Dashdot __ . __ . __ . __ . __ . __ . __ . __
+  72
+65
+  73
+4
+  40
+1
+  49
+0.4
+  74
+0
+  49
+-0.3
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.3
+  74
+0
+  0
+LTYPE
+  5
+21
+  330
+101
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+DASHDOTDOT0
+  70
+0
+  3
+Dashdot __ . . __ . . __ . . __ . . __ . . __ . . __ . . __
+  72
+65
+  73
+6
+  40
+1
+  49
+0.3
+  74
+0
+  49
+-0.23
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.24
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.23
+  74
+0
+  0
+LTYPE
+  5
+22
+  330
+101
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+INVISIBLE
+  70
+0
+  3
+Invisible(                        )
+  72
+65
+  73
+2
+  40
+2
+  49
+-1
+  74
+0
+  49
+-1
+  74
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+103
+  102
+{ACAD_XDICTIONARY
+  360
+104
+  102
+}
+  330
+0
+  100
+AcDbSymbolTable
+  70
+18
+  0
+LAYER
+  5
+62
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+0
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+-3
+  390
+102
+  0
+LAYER
+  5
+6C
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+6D
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+6E
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+6F
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+70
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+71
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+72
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+73
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+74
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+75
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+76
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+77
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+78
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+79
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+7A
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+7B
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+LAYER
+  5
+7C
+  330
+103
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+102
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+105
+  330
+0
+  100
+AcDbSymbolTable
+  70
+1
+  0
+STYLE
+  5
+64
+  330
+105
+  100
+AcDbSymbolTableRecord
+  100
+AcDbTextStyleTableRecord
+  2
+STANDARD
+  70
+0
+  40
+1
+  41
+1
+  50
+0
+  71
+0
+  42
+0.2
+  3
+Arial
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+106
+  330
+0
+  100
+AcDbSymbolTable
+  70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+107
+  330
+0
+  100
+AcDbSymbolTable
+  70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+108
+  330
+0
+  100
+AcDbSymbolTable
+  70
+20
+  0
+APPID
+  5
+109
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+  70
+0
+  0
+APPID
+  5
+10A
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+VDEXTRAPARAM
+  70
+0
+  0
+APPID
+  5
+10B
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+VDEXTRASOLID2D
+  70
+0
+  0
+APPID
+  5
+10C
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+VD_TEMPHATCH
+  70
+0
+  0
+APPID
+  5
+10D
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+ACAD
+  70
+0
+  0
+APPID
+  5
+10E
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+PE_URL
+  70
+0
+  0
+APPID
+  5
+10F
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+RingID
+  70
+0
+  0
+APPID
+  5
+110
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+Type
+  70
+0
+  0
+APPID
+  5
+111
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+Configuration
+  70
+0
+  0
+APPID
+  5
+112
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+HoleID
+  70
+0
+  0
+APPID
+  5
+113
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+PivotID
+  70
+0
+  0
+APPID
+  5
+114
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+UpHole
+  70
+0
+  0
+APPID
+  5
+115
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+BreakThrough
+  70
+0
+  0
+APPID
+  5
+116
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+Diameter
+  70
+0
+  0
+APPID
+  5
+117
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+Explosive
+  70
+0
+  0
+APPID
+  5
+118
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+ChargeCollar
+  70
+0
+  0
+APPID
+  5
+119
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+ChargeLength
+  70
+0
+  0
+APPID
+  5
+11A
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+SubDrill
+  70
+0
+  0
+APPID
+  5
+11B
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+HoleLength
+  70
+0
+  0
+APPID
+  5
+11C
+  330
+108
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+RemoteDistance
+  70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+11D
+  330
+0
+  100
+AcDbSymbolTable
+  70
+4
+  0
+BLOCK_RECORD
+  5
+11E
+  330
+11D
+  100
+AcDbSymbolTableRecord
+  100
+AcDbBlockTableRecord
+  2
+*Model_Space
+  340
+1
+  0
+BLOCK_RECORD
+  5
+11F
+  330
+11D
+  100
+AcDbSymbolTableRecord
+  100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+  340
+FE
+  0
+BLOCK_RECORD
+  5
+120
+  330
+11D
+  100
+AcDbSymbolTableRecord
+  100
+AcDbBlockTableRecord
+  2
+VDDIM_DEFAULT
+  340
+0
+  0
+BLOCK_RECORD
+  5
+121
+  330
+11D
+  100
+AcDbSymbolTableRecord
+  100
+AcDbBlockTableRecord
+  2
+VDDIM_NONE
+  340
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+122
+  330
+0
+  100
+AcDbSymbolTable
+  70
+1
+  100
+AcDbDimStyleTable
+  71
+1
+  340
+69
+  0
+DIMSTYLE
+  105
+69
+  330
+122
+  100
+AcDbSymbolTableRecord
+  100
+AcDbDimStyleTableRecord
+  2
+STANDARD
+  70
+0
+  41
+0.2
+  3
+
+  177
+0
+  42
+0.05
+  44
+0.2
+  75
+0
+  76
+0
+  40
+1
+  172
+1
+  281
+0
+  282
+0
+  275
+1
+  277
+2
+  179
+4
+  71
+0
+  47
+1
+  48
+1
+  78
+1
+  176
+0
+  178
+0
+  140
+1
+  147
+0.09
+  280
+0
+  77
+1
+  73
+0
+  271
+4
+  173
+1
+  340
+64
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+123
+  330
+11E
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockBegin
+  2
+*Model_Space
+  70
+0
+  71
+0
+  10
+0
+  20
+0
+  30
+0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+124
+  330
+11E
+  100
+AcDbEntity
+  67
+1
+  8
+0
+  100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+125
+  330
+11F
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockBegin
+  2
+*Paper_Space
+  70
+0
+  71
+0
+  10
+0
+  20
+0
+  30
+0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+126
+  330
+11F
+  100
+AcDbEntity
+  67
+1
+  8
+0
+  100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+65
+  330
+120
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockBegin
+  2
+VDDIM_DEFAULT
+  70
+0
+  71
+0
+  10
+0
+  20
+0
+  30
+0
+  3
+VDDIM_DEFAULT
+  1
+
+  0
+HATCH
+  5
+66
+  330
+120
+  100
+AcDbEntity
+  8
+0
+  62
+0
+  370
+-2
+  100
+AcDbHatch
+  10
+0
+  20
+0
+  30
+0
+  210
+0
+  220
+0
+  230
+-1
+  2
+SOLID
+  70
+1
+  71
+0
+  91
+1
+  92
+2
+  72
+0
+  73
+1
+  93
+3
+  10
+0
+  20
+0
+  10
+1
+  20
+-0.1665
+  10
+1
+  20
+0.1665
+  97
+0
+  75
+0
+  76
+1
+  98
+1
+  10
+0
+  20
+0
+  0
+ENDBLK
+  5
+127
+  330
+120
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+68
+  330
+121
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockBegin
+  2
+VDDIM_NONE
+  70
+0
+  71
+0
+  10
+0
+  20
+0
+  30
+0
+  3
+VDDIM_NONE
+  1
+
+  0
+ENDBLK
+  5
+128
+  330
+121
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+129
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+5
+  43
+0
+  38
+-1049.9285
+  10
+6912.36138161855
+  20
+-23429.776857474964
+  10
+6910.3228610763
+  20
+-23434.043528377348
+  10
+6907.4784138080449
+  20
+-23437.599087462666
+  10
+6904.7287814487318
+  20
+-23440.348719821981
+  10
+6899.798406183756
+  20
+-23443.287981999179
+  1001
+RingID
+  1000
+
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+12A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6908.9331138672669
+  20
+-23439.666467535459
+  10
+6905.1028916516707
+  20
+-23436.452529487029
+  1001
+RingID
+  1000
+S1S
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+12B
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6910.97717846607
+  20
+-23437.23044620634
+  10
+6907.1469562504735
+  20
+-23434.016508157911
+  1001
+RingID
+  1000
+S1S
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+12C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.3666467661709
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.8666467661709
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+12D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.5983916504119
+  20
+-23440.224701877931
+  30
+-1046.4985134737597
+  70
+32
+  0
+VERTEX
+  5
+12E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.1337818916063
+  20
+-23440.673947631851
+  30
+-1037.659454676678
+  70
+32
+  0
+SEQEND
+  5
+12F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.3666467661709
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.8666467661709
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+130
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.79982523686161
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.29982523686161
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+131
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.0714677340829
+  20
+-23439.78256021408
+  30
+-1046.3328222246198
+  70
+32
+  0
+VERTEX
+  5
+132
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.2168268431242
+  20
+-23439.904530988864
+  30
+-1037.0349330396657
+  70
+32
+  0
+SEQEND
+  5
+133
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.79982523686161
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.29982523686161
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+134
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.75496741524984
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.254967415249844
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+135
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.0442679224843
+  20
+-23438.920637231025
+  30
+-1045.9253047037512
+  70
+32
+  0
+VERTEX
+  5
+136
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.1005337406286
+  20
+-23438.96784985828
+  30
+-1036.6706287514085
+  70
+32
+  0
+SEQEND
+  5
+137
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.75496741524984
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.254967415249844
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+138
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.77821393736736
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.2782139373673616
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+139
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6906.9600312550774
+  20
+-23438.0108546433
+  30
+-1045.7403856741139
+  70
+32
+  0
+VERTEX
+  5
+13A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6906.9045054165281
+  20
+-23437.964262932648
+  30
+-1036.4624548724044
+  70
+32
+  0
+SEQEND
+  5
+13B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.77821393736736
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.2782139373673616
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+13C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.72920745313883
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.2292074531388337
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+13D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6905.7362023030937
+  20
+-23436.983940221064
+  30
+-1045.6915913597531
+  70
+32
+  0
+VERTEX
+  5
+13E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6905.7084770924248
+  20
+-23436.960676007016
+  30
+-1036.4624548724044
+  70
+32
+  0
+SEQEND
+  5
+13F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.72920745313883
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.2292074531388337
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+140
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.98335009998092
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.4833500999809246
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+141
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6905.0376670194892
+  20
+-23436.397799522227
+  30
+-1045.6637406129923
+  70
+32
+  0
+VERTEX
+  5
+142
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6904.7117868223377
+  20
+-23436.124353568986
+  30
+-1037.1910634489191
+  70
+32
+  0
+SEQEND
+  5
+143
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1S
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S1S
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.98335009998092
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.4833500999809246
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+144
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6907.9002074913305
+  20
+-23440.693459660648
+  10
+6904.0144776840452
+  20
+-23437.5468577054
+  1001
+RingID
+  1000
+S2S
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+145
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6909.9014463348685
+  20
+-23438.222135503212
+  10
+6906.0157165275832
+  20
+-23435.075533547966
+  1001
+RingID
+  1000
+S2S
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+146
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+2.48687220927813
+  1001
+ChargeLength
+  1000
+5.74774998333288
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.2346221926110132
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+147
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.7957731625329
+  20
+-23441.418674441858
+  30
+-1046.5470293461335
+  70
+32
+  0
+VERTEX
+  5
+148
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.2800570895834
+  20
+-23441.810839833521
+  30
+-1038.3360197834411
+  70
+32
+  0
+SEQEND
+  5
+149
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+2.48687220927813
+  1001
+ChargeLength
+  1000
+5.74774998333288
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.2346221926110132
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+14A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.58395502058653
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.08395502058653
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+14B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.2926706343278
+  20
+-23441.011270047464
+  30
+-1046.378237436893
+  70
+32
+  0
+VERTEX
+  5
+14C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.3902588981618
+  20
+-23441.090295465343
+  30
+-1037.2951503884203
+  70
+32
+  0
+SEQEND
+  5
+14D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.58395502058653
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.08395502058653
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+14E
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.46692154055433
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.9669215405543348
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+14F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.1768977280453
+  20
+-23440.107734963283
+  30
+-1046.1059415197215
+  70
+32
+  0
+VERTEX
+  5
+150
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.1768977280444
+  20
+-23440.107734963283
+  30
+-1037.1390199791672
+  70
+32
+  0
+SEQEND
+  5
+151
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.46692154055433
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.9669215405543348
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+152
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.4763708862396
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.9763708862395983
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+153
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6906.0197923929945
+  20
+-23439.170729538237
+  30
+-1045.8028381656225
+  70
+32
+  0
+VERTEX
+  5
+154
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6905.9635365579252
+  20
+-23439.125174461224
+  30
+-1036.8267591606611
+  70
+32
+  0
+SEQEND
+  5
+155
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.4763708862396
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.9763708862395983
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+156
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.34039353217085
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.8403935321708538
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+157
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6905.0319433975756
+  20
+-23438.37078519454
+  30
+-1045.6137609084244
+  70
+32
+  0
+VERTEX
+  5
+158
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6904.9119568771566
+  20
+-23438.273622026107
+  30
+-1036.77471569091
+  70
+32
+  0
+SEQEND
+  5
+159
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.34039353217085
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.8403935321708538
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+15A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+2.4799454904253
+  1001
+ChargeLength
+  1000
+5.94717668360523
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.4271221740305258
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+15B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6904.6691700743895
+  20
+-23438.077017149757
+  30
+-1046.2093269745956
+  70
+32
+  0
+VERTEX
+  5
+15C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6903.7390410793787
+  20
+-23437.323813540785
+  30
+-1037.8676285556817
+  70
+32
+  0
+SEQEND
+  5
+15D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2S
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S2S
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+2.4799454904253
+  1001
+ChargeLength
+  1000
+5.94717668360523
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.4271221740305258
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+15E
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6906.811793523706
+  20
+-23441.78778787902
+  10
+6902.98157130811
+  20
+-23438.573849830591
+  1001
+RingID
+  1000
+S3S
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+15F
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6908.8558581225088
+  20
+-23439.351766549902
+  10
+6905.0256359069126
+  20
+-23436.137828501473
+  1001
+RingID
+  1000
+S3S
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+160
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.13209951497349
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.63209951497349
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+161
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.1956452649911
+  20
+-23442.109877733565
+  30
+-1046.2809919934764
+  70
+32
+  0
+VERTEX
+  5
+162
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.2870545742271
+  20
+-23442.186579251233
+  30
+-1037.6497172758129
+  70
+32
+  0
+SEQEND
+  5
+163
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.13209951497349
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.63209951497349
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+164
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.30983968485118
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.8098396848511822
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+165
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6906.0988162294743
+  20
+-23441.189528894407
+  30
+-1046.1475706263236
+  70
+32
+  0
+VERTEX
+  5
+166
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6906.0988162294734
+  20
+-23441.189528894411
+  30
+-1037.3377309414725
+  70
+32
+  0
+SEQEND
+  5
+167
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.30983968485118
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.8098396848511822
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+168
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.33508516459353
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.83508516459353
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+169
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6904.9622967300893
+  20
+-23440.235875801642
+  30
+-1046.0784848915566
+  70
+32
+  0
+VERTEX
+  5
+16A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6904.907717312185
+  20
+-23440.190078232212
+  30
+-1037.2436870141066
+  70
+32
+  0
+SEQEND
+  5
+16B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.33508516459353
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.83508516459353
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+16C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.10026370937909
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.60026370937909
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+16D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6903.9923718143691
+  20
+-23439.422012162591
+  30
+-1045.8208700668556
+  70
+32
+  0
+VERTEX
+  5
+16E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6903.8773119120015
+  20
+-23439.325465440954
+  30
+-1037.2219180481343
+  70
+32
+  0
+SEQEND
+  5
+16F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+8.10026370937909
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.60026370937909
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+170
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+2.46747931681308
+  1001
+ChargeLength
+  1000
+6.08868751083965
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.5561668276527278
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+171
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6903.5136633802476
+  20
+-23439.020328092083
+  30
+-1046.4522598680542
+  70
+32
+  0
+VERTEX
+  5
+172
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6902.424351433765
+  20
+-23438.106286839549
+  30
+-1038.0150850533107
+  70
+32
+  0
+SEQEND
+  5
+173
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3S
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S3S
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+2.46747931681308
+  1001
+ChargeLength
+  1000
+6.08868751083965
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.5561668276527278
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+174
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6905.5538468727518
+  20
+-23442.608824052579
+  10
+6901.7347852835719
+  20
+-23439.381631994758
+  1001
+RingID
+  1000
+S4S
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+175
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6907.6063410215247
+  20
+-23440.17990088186
+  10
+6903.7872794323448
+  20
+-23436.952708824039
+  1001
+RingID
+  1000
+S4S
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+176
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.61464162388823
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.11464162388823
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+177
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6905.8553408012694
+  20
+-23442.863593133643
+  30
+-1046.0951375645368
+  70
+32
+  0
+VERTEX
+  5
+178
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6905.9410201238779
+  20
+-23442.935994068528
+  30
+-1037.9812712948449
+  70
+32
+  0
+SEQEND
+  5
+179
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.61464162388823
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.11464162388823
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+17A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.5458548971033
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.045854897103295
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+17B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6904.842947075017
+  20
+-23442.008097898368
+  30
+-1045.8879319358284
+  70
+32
+  0
+VERTEX
+  5
+17C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6904.842947075017
+  20
+-23442.008097898368
+  30
+-1037.8420770387252
+  70
+32
+  0
+SEQEND
+  5
+17D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.5458548971033
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.045854897103295
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+17E
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.49005974708129
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.99005974708129
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+17F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6903.708104113397
+  20
+-23441.049130333413
+  30
+-1045.6764230400072
+  70
+32
+  0
+VERTEX
+  5
+180
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6903.6588887294492
+  20
+-23441.007542238411
+  30
+-1037.6866231026954
+  70
+32
+  0
+SEQEND
+  5
+181
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.49005974708129
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.99005974708129
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+182
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.65601893395863
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.1560189339586255
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+183
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6902.7430662876932
+  20
+-23440.233651888277
+  30
+-1045.7161695682437
+  70
+32
+  0
+VERTEX
+  5
+184
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6902.634267727115
+  20
+-23440.141714682657
+  30
+-1037.5613945698435
+  70
+32
+  0
+SEQEND
+  5
+185
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.65601893395863
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.1560189339586255
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+186
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+2.17648283539037
+  1001
+ChargeLength
+  1000
+5.69820851596526
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.8746913513556365
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+187
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6902.2397736011408
+  20
+-23439.808358364491
+  30
+-1045.8464619607039
+  70
+32
+  0
+VERTEX
+  5
+188
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6901.2653171817274
+  20
+-23438.984920998013
+  30
+-1038.0758024346878
+  70
+32
+  0
+SEQEND
+  5
+189
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4S
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S4S
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+2.17648283539037
+  1001
+ChargeLength
+  1000
+5.69820851596526
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.8746913513556365
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+18A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6904.2932967143706
+  20
+-23443.343349200029
+  10
+6900.4184945193256
+  20
+-23440.183300474255
+  1001
+RingID
+  1000
+S5S
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+18B
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6906.3030877039628
+  20
+-23440.87897500398
+  10
+6902.4282855089177
+  20
+-23437.718926278205
+  1001
+RingID
+  1000
+S5S
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+18C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.18208975454699
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.6820897545469906
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+18D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6904.515359404566
+  20
+-23443.524449779077
+  30
+-1045.9695633817482
+  70
+32
+  0
+VERTEX
+  5
+18E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6904.5976554434055
+  20
+-23443.591565332234
+  30
+-1038.2882076510564
+  70
+32
+  0
+SEQEND
+  5
+18F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.18208975454699
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.6820897545469906
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+190
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+6.97715478836774
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.4771547883677352
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+191
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6903.572021073116
+  20
+-23442.75512145153
+  30
+-1045.6121177672023
+  70
+32
+  0
+VERTEX
+  5
+192
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6903.572021073116
+  20
+-23442.75512145153
+  30
+-1038.1349629788347
+  70
+32
+  0
+SEQEND
+  5
+193
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+6.97715478836774
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.4771547883677352
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+194
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.06531841779784
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.5653184177978368
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+195
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6902.42049644836
+  20
+-23441.816009274968
+  30
+-1045.5875888541686
+  70
+32
+  0
+VERTEX
+  5
+196
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6902.3732171593019
+  20
+-23441.777451214555
+  30
+-1038.0225164349863
+  70
+32
+  0
+SEQEND
+  5
+197
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.06531841779784
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.5653184177978368
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+198
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.27189621409801
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.7718962140980086
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+199
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6901.4418261784886
+  20
+-23441.01786640635
+  30
+-1045.6709559700191
+  70
+32
+  0
+VERTEX
+  5
+19A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6901.3366385190557
+  20
+-23440.93208186499
+  30
+-1037.9002451060455
+  70
+32
+  0
+SEQEND
+  5
+19B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+7.27189621409801
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.7718962140980086
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+19C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+1.50798119781699
+  1001
+ChargeLength
+  1000
+6.4159653785229
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.9239465763398975
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+19D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6900.9534520431407
+  20
+-23440.6195787038
+  30
+-1045.8264899504852
+  70
+32
+  0
+VERTEX
+  5
+19E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6900.1438325090239
+  20
+-23439.959303146916
+  30
+-1037.9717154951845
+  70
+32
+  0
+SEQEND
+  5
+19F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5S
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S5S
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+1.50798119781699
+  1001
+ChargeLength
+  1000
+6.4159653785229
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.9239465763398975
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+1A0
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6909.9608772452566
+  20
+-23438.497960814548
+  10
+6906.0565331980424
+  20
+-23435.374485576776
+  1001
+RingID
+  1000
+S1
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+1A1
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6911.94740749648
+  20
+-23436.01479800052
+  10
+6908.0430634492659
+  20
+-23432.891322762749
+  1001
+RingID
+  1000
+S1
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+1A2
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1A3
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.0688010311387
+  20
+-23439.384299843256
+  30
+-1046.2439962008546
+  70
+32
+  0
+VERTEX
+  5
+1A4
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.0364895598468
+  20
+-23439.358450666219
+  30
+-1037.2440913241978
+  70
+32
+  0
+SEQEND
+  5
+1A5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1A6
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1A7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.3600716009814
+  20
+-23438.817316299137
+  30
+-1045.9809955967421
+  70
+32
+  0
+VERTEX
+  5
+1A8
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.3304186190126
+  20
+-23438.793593913564
+  30
+-1036.9810757110386
+  70
+32
+  0
+SEQEND
+  5
+1A9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1AA
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1AB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.6305317654223
+  20
+-23438.233684430681
+  30
+-1045.7648270618809
+  70
+32
+  0
+VERTEX
+  5
+1AC
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.5413911235592
+  20
+-23438.162371917188
+  30
+-1036.7655510648137
+  70
+32
+  0
+SEQEND
+  5
+1AD
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1AE
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H8
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1AF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6906.34920971124
+  20
+-23435.608626787336
+  30
+-1045.5270263850778
+  70
+32
+  0
+VERTEX
+  5
+1B0
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6906.3374771411354
+  20
+-23435.599240731255
+  30
+-1036.5270389268226
+  70
+32
+  0
+SEQEND
+  5
+1B1
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  1001
+HoleID
+  1000
+H8
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1B2
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+11
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1B3
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.7766649755768
+  20
+-23437.550590998806
+  30
+-1045.4629252013717
+  70
+32
+  0
+VERTEX
+  5
+1B4
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.7766649755768
+  20
+-23437.550590998806
+  30
+-1035.9629252013717
+  70
+32
+  0
+SEQEND
+  5
+1B5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+11
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1B6
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+25
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1B7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.19101336849
+  20
+-23437.082069713142
+  30
+-1045.4394354019034
+  70
+32
+  0
+VERTEX
+  5
+1B8
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.1910133684878
+  20
+-23437.082069713146
+  30
+-1035.9394354019034
+  70
+32
+  0
+SEQEND
+  5
+1B9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+25
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1BA
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+13
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1BB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.8005789637737
+  20
+-23436.769722189369
+  30
+-1045.4864744765298
+  70
+32
+  0
+VERTEX
+  5
+1BC
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.8005789637737
+  20
+-23436.769722189372
+  30
+-1035.9864744765298
+  70
+32
+  0
+SEQEND
+  5
+1BD
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+13
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1BE
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1BF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.2149273566947
+  20
+-23436.3012009037
+  30
+-1045.4120605375149
+  70
+32
+  0
+VERTEX
+  5
+1C0
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.2149273566965
+  20
+-23436.301200903705
+  30
+-1035.9120605375149
+  70
+32
+  0
+SEQEND
+  5
+1C1
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+S1
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+1C2
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6910.2732247690337
+  20
+-23438.107526409825
+  10
+6906.36888072182
+  20
+-23434.984051172054
+  1001
+RingID
+  1000
+S2
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+1C3
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6912.2597550202572
+  20
+-23435.624363595798
+  10
+6908.355410973043
+  20
+-23432.500888358027
+  1001
+RingID
+  1000
+S2
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+1C4
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1C5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.9703358363267
+  20
+-23438.665215263652
+  30
+-1046.0137434799542
+  70
+32
+  0
+VERTEX
+  5
+1C6
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.0075852386317
+  20
+-23438.695014785495
+  30
+-1037.0138698991461
+  70
+32
+  0
+SEQEND
+  5
+1C7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1C8
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1C9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.2704341599319
+  20
+-23438.105293922534
+  30
+-1045.8553301293709
+  70
+32
+  0
+VERTEX
+  5
+1CA
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.1779708573022
+  20
+-23438.031323280426
+  30
+-1036.8561091140957
+  70
+32
+  0
+SEQEND
+  5
+1CB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1CC
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1CD
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.4277028348642
+  20
+-23437.431108862485
+  30
+-1045.492166915732
+  70
+32
+  0
+VERTEX
+  5
+1CE
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.346226348217
+  20
+-23437.365927673167
+  30
+-1036.4927717696858
+  70
+32
+  0
+SEQEND
+  5
+1CF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1D0
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1D1
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.3349091898326
+  20
+-23435.756873946459
+  30
+-1045.4679827992916
+  70
+32
+  0
+VERTEX
+  5
+1D2
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.2557275199151
+  20
+-23435.693528610525
+  30
+-1036.4685540601124
+  70
+32
+  0
+SEQEND
+  5
+1D3
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1D4
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+19
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1D5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.6985780946352
+  20
+-23436.847809070303
+  30
+-1045.7332492823609
+  70
+32
+  0
+VERTEX
+  5
+1D6
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.6985780946352
+  20
+-23436.847809070303
+  30
+-1036.2332492823609
+  70
+32
+  0
+SEQEND
+  5
+1D7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+19
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1D8
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+24
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1D9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.3081436899156
+  20
+-23436.535461546522
+  30
+-1045.7157627780432
+  70
+32
+  0
+VERTEX
+  5
+1DA
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.3081436899174
+  20
+-23436.535461546518
+  30
+-1036.2157627780432
+  70
+32
+  0
+SEQEND
+  5
+1DB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+24
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1DC
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+14
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1DD
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.9177092851924
+  20
+-23436.223114022749
+  30
+-1045.5165712045541
+  70
+32
+  0
+VERTEX
+  5
+1DE
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.9177092851924
+  20
+-23436.223114022749
+  30
+-1036.0165712045541
+  70
+32
+  0
+SEQEND
+  5
+1DF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S2
+  1001
+PivotID
+  1000
+14
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+1E0
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6910.4293985309223
+  20
+-23437.912309207462
+  10
+6906.5250544837081
+  20
+-23434.788833969691
+  1001
+RingID
+  1000
+S3
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+1E1
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6912.4159287821458
+  20
+-23435.429146393435
+  10
+6908.5115847349316
+  20
+-23432.305671155664
+  1001
+RingID
+  1000
+S3
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+1E2
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S3
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1E3
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.2451862612488
+  20
+-23436.964939391721
+  30
+-1045.3394547762575
+  70
+32
+  0
+VERTEX
+  5
+1E4
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.2451862612506
+  20
+-23436.964939391721
+  30
+-1035.8394547762575
+  70
+32
+  0
+SEQEND
+  5
+1E5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S3
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1E6
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S3
+  1001
+PivotID
+  1000
+22
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1E7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.6595346541671
+  20
+-23436.496418106057
+  30
+-1045.82594613582
+  70
+32
+  0
+VERTEX
+  5
+1E8
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.659534654169
+  20
+-23436.49641810606
+  30
+-1035.82594613582
+  70
+32
+  0
+SEQEND
+  5
+1E9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S3
+  1001
+PivotID
+  1000
+22
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1EA
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S3
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1EB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.2691002494485
+  20
+-23436.184070582276
+  30
+-1045.6267545623298
+  70
+32
+  0
+VERTEX
+  5
+1EC
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.2691002494521
+  20
+-23436.184070582276
+  30
+-1035.6267545623298
+  70
+32
+  0
+SEQEND
+  5
+1ED
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S3
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1EE
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S3
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1EF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.68344864236
+  20
+-23435.715549296616
+  30
+-1045.5149605009638
+  70
+32
+  0
+VERTEX
+  5
+1F0
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.6834486423613
+  20
+-23435.715549296619
+  30
+-1035.5149605009638
+  70
+32
+  0
+SEQEND
+  5
+1F1
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S3
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+1F2
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6910.5855722928109
+  20
+-23437.717092005103
+  10
+6906.6812282455967
+  20
+-23434.593616767332
+  1001
+RingID
+  1000
+S4
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+1F3
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6912.5721025440344
+  20
+-23435.233929191076
+  10
+6908.66775849682
+  20
+-23432.110453953304
+  1001
+RingID
+  1000
+S4
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+1F4
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1F5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.4791173331341
+  20
+-23438.43192803736
+  30
+-1045.843986759518
+  70
+32
+  0
+VERTEX
+  5
+1F6
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.4916446203351
+  20
+-23438.441949867123
+  30
+-1036.8440010578624
+  70
+32
+  0
+SEQEND
+  5
+1F7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1F8
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1F9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.7793740840361
+  20
+-23437.872133438083
+  30
+-1045.857876002819
+  70
+32
+  0
+VERTEX
+  5
+1FA
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.7547152207944
+  20
+-23437.852406347487
+  30
+-1036.8579314039696
+  70
+32
+  0
+SEQEND
+  5
+1FB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+1FC
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+1FD
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.179544489225
+  20
+-23437.392269762233
+  30
+-1045.7176247942837
+  70
+32
+  0
+VERTEX
+  5
+1FE
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.1672365934246
+  20
+-23437.382423445593
+  30
+-1036.717638596197
+  70
+32
+  0
+SEQEND
+  5
+1FF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+200
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+201
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.49830828679
+  20
+-23436.847280800284
+  30
+-1045.3205013948191
+  70
+32
+  0
+VERTEX
+  5
+202
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.49830828679
+  20
+-23436.847280800284
+  30
+-1036.3205013948191
+  70
+32
+  0
+SEQEND
+  5
+203
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+204
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H8
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+205
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.5923430848961
+  20
+-23435.322508638768
+  30
+-1045.5328203430424
+  70
+32
+  0
+VERTEX
+  5
+206
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.6044391414835
+  20
+-23435.332185484036
+  30
+-1036.5328336739367
+  70
+32
+  0
+SEQEND
+  5
+207
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  1001
+HoleID
+  1000
+H8
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+208
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+12
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+209
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.0109256184169
+  20
+-23436.457374665584
+  30
+-1045.9361294935954
+  70
+32
+  0
+VERTEX
+  5
+20A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.0109256184178
+  20
+-23436.457374665584
+  30
+-1035.9361294935954
+  70
+32
+  0
+SEQEND
+  5
+20B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+12
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+20C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+17
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+20D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.6204912136936
+  20
+-23436.145027141811
+  30
+-1045.7369379201052
+  70
+32
+  0
+VERTEX
+  5
+20E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.6204912136955
+  20
+-23436.145027141814
+  30
+-1035.7369379201052
+  70
+32
+  0
+SEQEND
+  5
+20F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+17
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+210
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+20
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+211
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.2300568089731
+  20
+-23435.83267961803
+  30
+-1045.5616679492368
+  70
+32
+  0
+VERTEX
+  5
+212
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.230056808975
+  20
+-23435.83267961803
+  30
+-1035.5616679492368
+  70
+32
+  0
+SEQEND
+  5
+213
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+S4
+  1001
+PivotID
+  1000
+20
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+214
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6910.7417460546994
+  20
+-23437.521874802744
+  10
+6906.8374020074853
+  20
+-23434.398399564972
+  1001
+RingID
+  1000
+S5
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+215
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6912.7282763059229
+  20
+-23435.038711988716
+  10
+6908.8239322587087
+  20
+-23431.915236750945
+  1001
+RingID
+  1000
+S5
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+216
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S5
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+217
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.557533785026
+  20
+-23436.574504987002
+  30
+-1045.3979979369415
+  70
+32
+  0
+VERTEX
+  5
+218
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.5575337850287
+  20
+-23436.574504987002
+  30
+-1035.8979979369415
+  70
+32
+  0
+SEQEND
+  5
+219
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S5
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+21A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S5
+  1001
+PivotID
+  1000
+23
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+21B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.9718821779425
+  20
+-23436.105983701338
+  30
+-1045.8471212778793
+  70
+32
+  0
+VERTEX
+  5
+21C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.9718821779443
+  20
+-23436.105983701342
+  30
+-1035.8471212778793
+  70
+32
+  0
+SEQEND
+  5
+21D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S5
+  1001
+PivotID
+  1000
+23
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+21E
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S5
+  1001
+PivotID
+  1000
+18
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+21F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.5814477732192
+  20
+-23435.793636177557
+  30
+-1045.6479297043877
+  70
+32
+  0
+VERTEX
+  5
+220
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.58144777322
+  20
+-23435.793636177557
+  30
+-1035.6479297043877
+  70
+32
+  0
+SEQEND
+  5
+221
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S5
+  1001
+PivotID
+  1000
+18
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+222
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S5
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+223
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.9957961661394
+  20
+-23435.325114891893
+  30
+-1045.5730520305292
+  70
+32
+  0
+VERTEX
+  5
+224
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.9957961661412
+  20
+-23435.325114891893
+  30
+-1035.5730520305292
+  70
+32
+  0
+SEQEND
+  5
+225
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S5
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S5
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+226
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6910.897919816588
+  20
+-23437.326657600381
+  10
+6906.9935757693738
+  20
+-23434.203182362609
+  1001
+RingID
+  1000
+S6
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+227
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6912.8844500678115
+  20
+-23434.843494786353
+  10
+6908.9801060205973
+  20
+-23431.720019548582
+  1001
+RingID
+  1000
+S6
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+228
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+229
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.8242872593728
+  20
+-23437.267751554606
+  30
+-1045.7686467677104
+  70
+32
+  0
+VERTEX
+  5
+22A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.7623415804746
+  20
+-23437.21819501149
+  30
+-1036.2689779902266
+  70
+32
+  0
+SEQEND
+  5
+22B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+22C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+22D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.9695177458589
+  20
+-23436.583935943796
+  30
+-1045.4233525368027
+  70
+32
+  0
+VERTEX
+  5
+22E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.9821768634165
+  20
+-23436.594063237841
+  30
+-1035.9233663691991
+  70
+32
+  0
+SEQEND
+  5
+22F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+230
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+231
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.8167889293954
+  20
+-23434.861752890629
+  30
+-1045.5869355538746
+  70
+32
+  0
+VERTEX
+  5
+232
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.7864362633
+  20
+-23434.837470757753
+  30
+-1036.0870150755925
+  70
+32
+  0
+SEQEND
+  5
+233
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+234
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+16
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+235
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.3232731421995
+  20
+-23436.066940260869
+  30
+-1045.9125725737458
+  70
+32
+  0
+VERTEX
+  5
+236
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.3232731422013
+  20
+-23436.066940260873
+  30
+-1035.9125725737458
+  70
+32
+  0
+SEQEND
+  5
+237
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+16
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+238
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+15
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+239
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.9328387374708
+  20
+-23435.754592737085
+  30
+-1045.7581130621645
+  70
+32
+  0
+VERTEX
+  5
+23A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.9328387374708
+  20
+-23435.754592737085
+  30
+-1035.7581130621645
+  70
+32
+  0
+SEQEND
+  5
+23B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+15
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+23C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+21
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+23D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.5424043327512
+  20
+-23435.442245213308
+  30
+-1045.6197594788027
+  70
+32
+  0
+VERTEX
+  5
+23E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.542404332753
+  20
+-23435.442245213308
+  30
+-1035.6197594788027
+  70
+32
+  0
+SEQEND
+  5
+23F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S6
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S6
+  1001
+PivotID
+  1000
+21
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+152 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+240
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6911.2102673403651
+  20
+-23436.936223195658
+  10
+6907.305923293151
+  20
+-23433.812747957887
+  1001
+RingID
+  1000
+S7
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+241
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6913.1967975915886
+  20
+-23434.453060381631
+  10
+6909.2924535443744
+  20
+-23431.32958514386
+  1001
+RingID
+  1000
+S7
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+242
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+243
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.573543013852
+  20
+-23437.226843734446
+  30
+-1045.8187222543429
+  70
+32
+  0
+VERTEX
+  5
+244
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.5849148748293
+  20
+-23437.235941223229
+  30
+-1036.8187340367685
+  70
+32
+  0
+SEQEND
+  5
+245
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+246
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+247
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.8792513505778
+  20
+-23436.671410403829
+  30
+-1045.6814054005367
+  70
+32
+  0
+VERTEX
+  5
+248
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.8225772315145
+  20
+-23436.626071108582
+  30
+-1036.681698050154
+  70
+32
+  0
+SEQEND
+  5
+249
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+24A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+24B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.7987452730722
+  20
+-23434.207005541819
+  30
+-1045.6300815141449
+  70
+32
+  0
+VERTEX
+  5
+24C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6907.7469763698709
+  20
+-23434.165590419259
+  30
+-1036.630325696997
+  70
+32
+  0
+SEQEND
+  5
+24D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+24E
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+24F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.0260550706917
+  20
+-23435.988853379917
+  30
+-1045.5342242525903
+  70
+32
+  0
+VERTEX
+  5
+250
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.0260550706917
+  20
+-23435.988853379917
+  30
+-1035.5342242525903
+  70
+32
+  0
+SEQEND
+  5
+251
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+252
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+253
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.4404034636063
+  20
+-23435.520332094249
+  30
+-1045.8443681171314
+  70
+32
+  0
+VERTEX
+  5
+254
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.4404034636063
+  20
+-23435.520332094249
+  30
+-1035.8443681171314
+  70
+32
+  0
+SEQEND
+  5
+255
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+256
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+257
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.0499690588877
+  20
+-23435.207984570476
+  30
+-1045.6866818501137
+  70
+32
+  0
+VERTEX
+  5
+258
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.0499690588877
+  20
+-23435.207984570476
+  30
+-1035.6866818501137
+  70
+32
+  0
+SEQEND
+  5
+259
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+25A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+10
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+25B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.4643174518042
+  20
+-23434.739463284812
+  30
+-1045.6601893248778
+  70
+32
+  0
+VERTEX
+  5
+25C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.464317451806
+  20
+-23434.739463284815
+  30
+-1035.6601893248778
+  70
+32
+  0
+SEQEND
+  5
+25D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S7
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+S7
+  1001
+PivotID
+  1000
+10
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+25E
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6908.1639062167105
+  20
+-23432.74575384046
+  10
+6912.226369559472
+  20
+-23435.660610884759
+  1001
+RingID
+  1000
+S1N
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+25F
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6906.3100571365349
+  20
+-23435.329480526456
+  10
+6910.3725204792963
+  20
+-23438.244337570755
+  1001
+RingID
+  1000
+S1N
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+260
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.06543973263105
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5654397326310487
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+261
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.6008860830743
+  20
+-23433.059291153706
+  30
+-1045.8602092004594
+  70
+32
+  0
+VERTEX
+  5
+262
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6908.5382119142041
+  20
+-23433.014321826675
+  30
+-1036.2950805036369
+  70
+32
+  0
+SEQEND
+  5
+263
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.06543973263105
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5654397326310487
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+264
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.793273695028
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.293273695028002
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+265
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.3461658949118
+  20
+-23433.594036682764
+  30
+-1046.01308849006
+  70
+32
+  0
+VERTEX
+  5
+266
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.361234716238
+  20
+-23433.604848708939
+  30
+-1035.719831503495
+  70
+32
+  0
+SEQEND
+  5
+267
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.793273695028
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.293273695028002
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+268
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.73614732634545
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.236147326345449
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+269
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.2472304563889
+  20
+-23434.24055928809
+  30
+-1045.9162211377852
+  70
+32
+  0
+VERTEX
+  5
+26A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.4000868873682
+  20
+-23434.350235267175
+  30
+-1035.6818028261384
+  70
+32
+  0
+SEQEND
+  5
+26B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.73614732634545
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.236147326345449
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+26C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+3.12820872578384
+  1001
+ChargeLength
+  1000
+6.99999999999991
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.128208725783747
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+26D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.6481559641879
+  20
+-23435.245736994428
+  30
+-1045.923330840815
+  70
+32
+  0
+VERTEX
+  5
+26E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.64106497558
+  20
+-23435.240649140989
+  30
+-1035.7951258752414
+  70
+32
+  0
+SEQEND
+  5
+26F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+3.12820872578384
+  1001
+ChargeLength
+  1000
+6.99999999999991
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.128208725783747
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+270
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.2292113307597
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.7292113307596964
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+271
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6912.7346381874786
+  20
+-23436.025298579323
+  30
+-1045.9864098368432
+  70
+32
+  0
+VERTEX
+  5
+272
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6912.8841638361364
+  20
+-23436.132584689625
+  30
+-1036.2589392051984
+  70
+32
+  0
+SEQEND
+  5
+273
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S1N
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S1N
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.2292113307597
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.7292113307596964
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+274
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6908.7506241306846
+  20
+-23431.5669160378
+  10
+6913.0121171616674
+  20
+-23434.182193680204
+  1001
+RingID
+  1000
+S2N
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+275
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6907.0873075501131
+  20
+-23434.277225605503
+  10
+6911.3488005810959
+  20
+-23436.892503247909
+  1001
+RingID
+  1000
+S2N
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+276
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.97848399181436
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.478483991814365
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+277
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.2160152582419
+  20
+-23431.852526503895
+  30
+-1046.6543464094766
+  70
+32
+  0
+VERTEX
+  5
+278
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.1439950412978
+  20
+-23431.808327707411
+  30
+-1036.1762031425876
+  70
+32
+  0
+SEQEND
+  5
+279
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.97848399181436
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.478483991814365
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+27A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.65136834653561
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.151368346535612
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+27B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.9905995386662
+  20
+-23432.327888762153
+  30
+-1045.9225498305927
+  70
+32
+  0
+VERTEX
+  5
+27C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.006188697309
+  20
+-23432.3374558265
+  30
+-1035.7711979621736
+  70
+32
+  0
+SEQEND
+  5
+27D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.65136834653561
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.151368346535612
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+27E
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.83825542890659
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.338255428906589
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+27F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.93336234946
+  20
+-23432.906462159604
+  30
+-1045.8608942839148
+  70
+32
+  0
+VERTEX
+  5
+280
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.0953070618871
+  20
+-23433.005847605647
+  30
+-1035.5243851170565
+  70
+32
+  0
+SEQEND
+  5
+281
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.83825542890659
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.338255428906589
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+282
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+3.12820872578384
+  1001
+ChargeLength
+  1000
+7.32318164364173
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.451390369425567
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+283
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6912.4058278284392
+  20
+-23433.81011400613
+  30
+-1046.0422231401083
+  70
+32
+  0
+VERTEX
+  5
+284
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6912.3981520833822
+  20
+-23433.805403402523
+  30
+-1035.5908366508777
+  70
+32
+  0
+SEQEND
+  5
+285
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+3.12820872578384
+  1001
+ChargeLength
+  1000
+7.32318164364173
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.451390369425567
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+286
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+10.5428175264955
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+11.042817526495467
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+287
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6913.5221727700828
+  20
+-23434.495214731596
+  30
+-1047.1952321655262
+  70
+32
+  0
+VERTEX
+  5
+288
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6913.70020157702
+  20
+-23434.604470984061
+  30
+-1036.1543903616296
+  70
+32
+  0
+SEQEND
+  5
+289
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S2N
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S2N
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+10.5428175264955
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+11.042817526495467
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+28A
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6909.2360233276459
+  20
+-23430.52272876506
+  10
+6913.8200201007594
+  20
+-23432.519469505391
+  1001
+RingID
+  1000
+S3N
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+28B
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6907.9660962167973
+  20
+-23433.438150712758
+  10
+6912.5500929899108
+  20
+-23435.434891453089
+  1001
+RingID
+  1000
+S3N
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+28C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+10
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+28D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.7775687166677
+  20
+-23430.758620235869
+  30
+-1046.5710598335361
+  70
+32
+  0
+VERTEX
+  5
+28E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6909.6999390375931
+  20
+-23430.724805564842
+  30
+-1036.0714012580895
+  70
+32
+  0
+SEQEND
+  5
+28F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+10
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+290
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.36605466188374
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.8660546618837444
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+291
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.5699481730644
+  20
+-23431.103772385992
+  30
+-1045.7308498644645
+  70
+32
+  0
+VERTEX
+  5
+292
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.586245790837
+  20
+-23431.110871456731
+  30
+-1035.8648112175645
+  70
+32
+  0
+SEQEND
+  5
+293
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.36605466188374
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.8660546618837444
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+294
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.37064807590954
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.8706480759095374
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+295
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.5834532106956
+  20
+-23431.545244511588
+  30
+-1045.7650631076617
+  70
+32
+  0
+VERTEX
+  5
+296
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.7497744464936
+  20
+-23431.6176922911
+  30
+-1035.8960823090067
+  70
+32
+  0
+SEQEND
+  5
+297
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.37064807590954
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.8706480759095374
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+298
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.55434283717089
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.054342837170887
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+299
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6912.6671812521108
+  20
+-23432.017305038426
+  30
+-1046.0992602996873
+  70
+32
+  0
+VERTEX
+  5
+29A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6912.8089770113756
+  20
+-23432.079069778531
+  30
+-1036.0461071143975
+  70
+32
+  0
+SEQEND
+  5
+29B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.55434283717089
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.054342837170887
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+29C
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.52600977179712
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.026009771797121
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+29D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6913.2780439824755
+  20
+-23432.283390413446
+  30
+-1046.4907509345037
+  70
+32
+  0
+VERTEX
+  5
+29E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6914.1926661762982
+  20
+-23432.681790213184
+  30
+-1036.5144983421569
+  70
+32
+  0
+SEQEND
+  5
+29F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S3N
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S3N
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.52600977179712
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.026009771797121
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+2A0
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6909.7033628865947
+  20
+-23429.541043539335
+  10
+6914.214881965846
+  20
+-23431.696547099418
+  1001
+RingID
+  1000
+S4N
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+2A1
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-1049.9285
+  10
+6908.3324626223794
+  20
+-23432.41036967374
+  10
+6912.8439817016306
+  20
+-23434.565873233823
+  1001
+RingID
+  1000
+S4N
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+100 04W CUT03 LHP 07W SLOT
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+2A2
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.5
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+2A3
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.33067455982
+  20
+-23429.499734801771
+  30
+-1046.4113867179344
+  70
+32
+  0
+VERTEX
+  5
+2A4
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6910.63362729929
+  20
+-23428.678585724643
+  30
+-1036.4497636659023
+  70
+32
+  0
+SEQEND
+  5
+2A5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.5
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+2A6
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+2A7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.1751589588594
+  20
+-23429.834101948825
+  30
+-1045.6986421116835
+  70
+32
+  0
+VERTEX
+  5
+2A8
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6911.5475457706425
+  20
+-23429.094393238018
+  30
+-1036.2348078419193
+  70
+32
+  0
+SEQEND
+  5
+2A9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+2AA
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+2AB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6912.1712222648193
+  20
+-23430.304131585384
+  30
+-1045.6381306628757
+  70
+32
+  0
+VERTEX
+  5
+2AC
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6912.6856493715013
+  20
+-23429.632440080521
+  30
+-1036.1758795948579
+  70
+32
+  0
+SEQEND
+  5
+2AD
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+2AE
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.5
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+2AF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6913.08458552318
+  20
+-23430.776163295483
+  30
+-1046.0057721483429
+  70
+32
+  0
+VERTEX
+  5
+2B0
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6913.9633360643493
+  20
+-23430.231591874948
+  30
+-1036.0593537248935
+  70
+32
+  0
+SEQEND
+  5
+2B1
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.5
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+2B2
+  330
+11E
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+10
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.5
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+2B3
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6913.5593043798317
+  20
+-23431.056763649016
+  30
+-1046.5605312525831
+  70
+32
+  0
+VERTEX
+  5
+2B4
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+6914.9391582796788
+  20
+-23430.756130509028
+  30
+-1036.6607523191817
+  70
+32
+  0
+SEQEND
+  5
+2B5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_100 04W CUT03 LHP 07W SLOT_SURVEYEXPORT_S4N
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+S4N
+  1001
+PivotID
+  1000
+10
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+EMULSION 1.12
+  1001
+ChargeCollar
+  1000
+0.5
+  1001
+ChargeLength
+  1000
+9.5
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VIEWPORT
+  5
+2B6
+  330
+11F
+  100
+AcDbEntity
+  67
+1
+  8
+0
+  100
+AcDbViewport
+  10
+105.029
+  20
+148.463
+  40
+24.97
+  41
+312.78718378906251
+  68
+1
+  69
+1
+  12
+105.029
+  22
+148.463
+  13
+0
+  23
+0
+  14
+1
+  24
+1
+  15
+1
+  25
+1
+  16
+0
+  26
+0
+  36
+1
+  17
+0
+  27
+0
+  37
+0
+  42
+50
+  43
+0
+  44
+0
+  45
+312.78718378906251
+  50
+0
+  51
+0
+  72
+1000
+  90
+32800
+  1
+
+  281
+0
+  71
+1
+  74
+0
+  110
+0
+  120
+0
+  130
+0
+  111
+1
+  121
+0
+  131
+0
+  112
+0
+  122
+1
+  132
+0
+  79
+0
+  146
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+2B7
+  330
+0
+  100
+AcDbDictionary
+  281
+1
+  3
+ACAD_GROUP
+  350
+2B8
+  3
+ACAD_LAYOUT
+  350
+2B9
+  3
+ACAD_MLINESTYLE
+  350
+2BA
+  3
+ACAD_PLOTSETTINGS
+  350
+2BB
+  3
+ACAD_PLOTSTYLENAME
+  350
+2BC
+  3
+VECTORDRAW_OBJECTS
+  350
+2BD
+  3
+DWGPROPS
+  350
+2BE
+  0
+DICTIONARY
+  5
+104
+  330
+103
+  100
+AcDbDictionary
+  280
+1
+  281
+1
+  3
+ACAD_LAYERFILTERS
+  360
+2BF
+  3
+ACAD_LAYERSTATES
+  360
+2C0
+  3
+ACLYDICTIONARY
+  360
+2C1
+  0
+DICTIONARY
+  5
+2BF
+  102
+{ACAD_REACTORS
+  330
+104
+  102
+}
+  330
+104
+  100
+AcDbDictionary
+  281
+1
+  0
+DICTIONARY
+  5
+2C0
+  102
+{ACAD_REACTORS
+  330
+104
+  102
+}
+  330
+104
+  100
+AcDbDictionary
+  281
+1
+  0
+DICTIONARY
+  5
+2C1
+  102
+{ACAD_REACTORS
+  330
+104
+  102
+}
+  330
+104
+  100
+AcDbDictionary
+  281
+1
+  1001
+ACAD
+  1000
+<All
+  0
+DICTIONARY
+  5
+2B8
+  102
+{ACAD_REACTORS
+  330
+2B7
+  102
+}
+  330
+2B7
+  100
+AcDbDictionary
+  281
+1
+  0
+DICTIONARY
+  5
+2B9
+  102
+{ACAD_REACTORS
+  330
+2B7
+  102
+}
+  330
+2B7
+  100
+AcDbDictionary
+  281
+1
+  3
+Layout1
+  350
+FE
+  3
+Model
+  350
+1
+  0
+DICTIONARY
+  5
+2BA
+  102
+{ACAD_REACTORS
+  330
+2B7
+  102
+}
+  330
+2B7
+  100
+AcDbDictionary
+  281
+1
+  3
+Standard
+  350
+63
+  0
+DICTIONARY
+  5
+2BB
+  102
+{ACAD_REACTORS
+  330
+2B7
+  102
+}
+  330
+2B7
+  100
+AcDbDictionary
+  281
+1
+  0
+ACDBDICTIONARYWDFLT
+  5
+2BC
+  102
+{ACAD_REACTORS
+  330
+2B7
+  102
+}
+  330
+2B7
+  100
+AcDbDictionary
+  281
+1
+  3
+Normal
+  350
+102
+  100
+AcDbDictionaryWithDefault
+  340
+102
+  0
+DICTIONARY
+  5
+2BD
+  102
+{ACAD_REACTORS
+  330
+2B7
+  102
+}
+  330
+2B7
+  100
+AcDbDictionary
+  281
+1
+  3
+SERIALNO
+  350
+2C2
+  0
+LAYOUT
+  5
+FE
+  102
+{ACAD_REACTORS
+  330
+2B9
+  102
+}
+  330
+2B9
+  100
+AcDbPlotSettings
+  1
+
+  2
+
+  4
+
+  6
+
+  40
+0
+  41
+0
+  42
+0
+  43
+0
+  44
+210.058
+  45
+296.926
+  46
+0
+  47
+0
+  48
+0
+  49
+0
+  140
+210.058
+  141
+296.926
+  142
+1
+  143
+1
+  70
+688
+  72
+1
+  73
+0
+  74
+4
+  75
+16
+  147
+1
+  148
+0
+  149
+0
+  100
+AcDbLayout
+  1
+Layout1
+  70
+0
+  71
+1
+  10
+0
+  20
+0
+  11
+12
+  21
+9
+  12
+0
+  22
+0
+  32
+0
+  14
+0
+  24
+0
+  34
+0
+  15
+0
+  25
+0
+  35
+0
+  146
+0
+  13
+0
+  23
+0
+  33
+0
+  16
+1
+  26
+0
+  36
+0
+  17
+0
+  27
+1
+  37
+0
+  76
+0
+  330
+11F
+  0
+LAYOUT
+  5
+1
+  102
+{ACAD_REACTORS
+  330
+2B9
+  102
+}
+  330
+2B9
+  100
+AcDbPlotSettings
+  1
+VectorDraw Printer Drawing
+  2
+
+  4
+
+  6
+
+  40
+0
+  41
+0
+  42
+0
+  43
+0
+  44
+210.058
+  45
+296.926
+  46
+0
+  47
+0
+  48
+-17.892531288404982
+  49
+-13.063621290225546
+  140
+10.825692509669507
+  141
+15.302231663700786
+  142
+1
+  143
+0.13671568708677836
+  72
+1
+  73
+0
+  74
+4
+  75
+0
+  147
+1
+  148
+17.892531288404982
+  149
+13.063621290225546
+  100
+AcDbLayout
+  1
+Model
+  70
+1
+  71
+0
+  10
+10
+  20
+0
+  11
+0
+  21
+10
+  12
+0
+  22
+0
+  32
+0
+  14
+6914.9391582796788
+  24
+-23443.591565332234
+  34
+6899.798406183756
+  15
+-23428.678585724643
+  25
+-1049.9285
+  35
+-1049.9285
+  146
+0
+  13
+0
+  23
+0
+  33
+0
+  16
+1
+  26
+0
+  36
+0
+  17
+0
+  27
+1
+  37
+0
+  76
+0
+  330
+11E
+  0
+MLINESTYLE
+  5
+63
+  102
+{ACAD_REACTORS
+  330
+2BA
+  102
+}
+  330
+2BA
+  100
+AcDbMlineStyle
+  2
+Standard
+  70
+0
+  3
+
+  62
+0
+  51
+90
+  52
+90
+  71
+2
+  49
+0.5
+  62
+7
+  6
+Continuous
+  49
+-0.5
+  62
+7
+  6
+Continuous
+  0
+ACDBPLACEHOLDER
+  5
+102
+  102
+{ACAD_REACTORS
+  330
+2BC
+  102
+}
+  330
+2BC
+  0
+XRECORD
+  5
+2C2
+  102
+{ACAD_REACTORS
+  330
+2BD
+  102
+}
+  330
+2BD
+  100
+AcDbXrecord
+  280
+1
+  1000
+udnjVM6OT3ptXXPNDrqErnGX8
+  1070
+5
+  1070
+1
+  0
+XRECORD
+  5
+2BE
+  102
+{ACAD_REACTORS
+  330
+2B7
+  102
+}
+  330
+2B7
+  100
+AcDbXrecord
+  280
+1
+  1
+DWGPROPS COOKIE
+  2
+
+  3
+
+  4
+
+  6
+
+  7
+
+  8
+
+  9
+
+  40
+0
+  41
+0
+  42
+0
+  1
+
+  90
+0
+  0
+ENDSEC
+  999
+Created By VectorDraw :7.7012.0.1
+  0
+EOF

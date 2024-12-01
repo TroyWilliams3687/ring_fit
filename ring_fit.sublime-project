@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns":[
+				".git",
+				".ipynb_checkpoints",
+				".pytest_cache",
+				".ruff_cache",
+				"__pycache__",
+				".venv"
+			], // ignored in side bar
+		}
+	],
+}

@@ -1,0 +1,10060 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1018
+  9
+$ACADMAINTVER
+  70
+6
+  9
+$DWGCODEPAGE
+  3
+
+  9
+$TITLE
+  1
+VectorDraw Document
+  9
+$INSBASE
+  10
+0
+  20
+0
+  30
+0
+  9
+$EXTMIN
+  10
+7113.8890608764741
+  20
+-23239.292663425913
+  30
+-997.81190571334241
+  9
+$EXTMAX
+  10
+7127.5414275057856
+  20
+-23214.709672873309
+  30
+-997.81190571334241
+  9
+$LIMMIN
+  10
+0
+  20
+0
+  9
+$LIMMAX
+  10
+10
+  20
+10
+  9
+$ORTHOMODE
+  70
+0
+  9
+$REGENMODE
+  70
+1
+  9
+$FILLMODE
+  70
+1
+  9
+$QTEXTMODE
+  70
+0
+  9
+$MIRRTEXT
+  70
+1
+  9
+$LTSCALE
+  40
+1
+  9
+$ATTMODE
+  70
+1
+  9
+$TEXTSIZE
+  40
+0.2
+  9
+$TRACEWID
+  40
+0.05
+  9
+$TEXTSTYLE
+  7
+STANDARD
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$CECOLOR
+  62
+256
+  9
+$CELTSCALE
+  40
+1
+  9
+$DISPSILH
+  70
+0
+  9
+$DIMSCALE
+  40
+1
+  9
+$DIMASZ
+  40
+0.2
+  9
+$DIMEXO
+  40
+0.2
+  9
+$DIMRND
+  40
+0
+  9
+$DIMDLE
+  40
+0
+  9
+$DIMEXE
+  40
+0.05
+  9
+$DIMTP
+  40
+1
+  9
+$DIMTM
+  40
+1
+  9
+$DIMTXT
+  40
+1
+  9
+$DIMTSZ
+  40
+0.0
+  9
+$DIMTOL
+  70
+0
+  9
+$DIMLIM
+  70
+0
+  9
+$DIMTIH
+  70
+0
+  9
+$DIMTOH
+  70
+1
+  9
+$DIMSE1
+  70
+0
+  9
+$DIMSE2
+  70
+0
+  9
+$DIMTAD
+  70
+0
+  9
+$DIMZIN
+  70
+1
+  9
+$DIMBLK
+  1
+VDDIM_DEFAULT
+  9
+$DIMASO
+  70
+1
+  9
+$DIMSHO
+  70
+1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+  70
+0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+STANDARD
+  9
+$DIMCLRD
+  70
+0
+  9
+$DIMCLRE
+  70
+0
+  9
+$DIMCLRT
+  70
+0
+  9
+$DIMTFAC
+  40
+1
+  9
+$DIMSD1
+  70
+0
+  9
+$DIMSD2
+  70
+0
+  9
+$DIMTOLJ
+  70
+1
+  9
+$DIMTXSTY
+  7
+STANDARD
+  9
+$DIMAUNIT
+  70
+1
+  9
+$DIMADEC
+  70
+4
+  9
+$DIMAZIN
+  70
+0
+  9
+$DIMLUNIT
+  70
+2
+  9
+$LUNITS
+  70
+2
+  9
+$LUPREC
+  70
+4
+  9
+$FILLETRAD
+  40
+0
+  9
+$AUNITS
+  70
+1
+  9
+$AUPREC
+  70
+4
+  9
+$MENU
+  1
+
+  9
+$ELEVATION
+  40
+0
+  9
+$PELEVATION
+  40
+0
+  9
+$THICKNESS
+  40
+0
+  9
+$ANGBASE
+  50
+0
+  9
+$ANGDIR
+  70
+0
+  9
+$PDMODE
+  70
+2
+  9
+$PDSIZE
+  40
+1
+  9
+$PLINEWID
+  40
+0
+  9
+$SPLFRAME
+  70
+0
+  9
+$SPLINETYPE
+  70
+6
+  9
+$SPLINESEGS
+  70
+8
+  9
+$HANDSEED
+  5
+              183
+  9
+$SURFTAB1
+  70
+6
+  9
+$SURFTAB2
+  70
+6
+  9
+$SURFTYPE
+  70
+6
+  9
+$SURFU
+  70
+6
+  9
+$SURFV
+  70
+6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSXDIR
+  10
+1
+  20
+0
+  30
+0
+  9
+$UCSYDIR
+  10
+0
+  20
+1
+  30
+0
+  9
+$UCSORGTOP
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGBOTTOM
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGLEFT
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGRIGHT
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGFRONT
+  10
+0
+  20
+0
+  30
+0
+  9
+$UCSORGBACK
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSXDIR
+  10
+1
+  20
+0
+  30
+0
+  9
+$PUCSYDIR
+  10
+0
+  20
+1
+  30
+0
+  9
+$PUCSORGTOP
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGBOTTOM
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGLEFT
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGRIGHT
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGFRONT
+  10
+0
+  20
+0
+  30
+0
+  9
+$PUCSORGBACK
+  10
+0
+  20
+0
+  30
+0
+  9
+$USERI1
+  70
+0
+  9
+$USERI2
+  70
+0
+  9
+$USERI3
+  70
+0
+  9
+$USERI4
+  70
+0
+  9
+$USERI5
+  70
+0
+  9
+$USERR1
+  40
+0
+  9
+$USERR2
+  40
+0
+  9
+$USERR3
+  40
+0
+  9
+$USERR4
+  40
+0
+  9
+$USERR5
+  40
+0
+  9
+$TILEMODE
+  70
+1
+  9
+$PINSBASE
+  10
+0
+  20
+0
+  30
+0
+  9
+$LWDISPLAY
+  290
+1
+  9
+$INSUNITS
+  70
+0
+  9
+$MEASUREMENT
+  70
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+  90
+0
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+  90
+0
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+IMAGE
+  2
+AcDbRasterImage
+  3
+ISM
+  90
+127
+  91
+1
+  280
+0
+  281
+1
+  0
+CLASS
+  1
+IMAGEDEF_REACTOR
+  2
+AcDbRasterImageDefReactor
+  3
+ObjectDBX Classes
+  90
+1
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+  90
+0
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+  90
+0
+  91
+1
+  280
+0
+  281
+0
+  0
+CLASS
+  1
+ARCALIGNEDTEXT
+  2
+AcDbArcAlignedText
+  3
+ATEXT|AutoCAD Express Tool|expresstools@autodesk.com
+  90
+0
+  91
+1
+  280
+0
+  281
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+A9
+  330
+0
+  100
+AcDbSymbolTable
+  70
+2
+  0
+VPORT
+  5
+AA
+  330
+A9
+  100
+AcDbSymbolTableRecord
+  100
+AcDbViewportTableRecord
+  2
+*Active
+  70
+0
+  10
+0
+  20
+0
+  11
+1
+  21
+1
+  12
+-1.5423945185584671
+  22
+-6.4437815442252031
+  13
+0
+  23
+0
+  14
+1
+  24
+1
+  15
+1
+  25
+1
+  16
+0
+  26
+0
+  36
+1
+  17
+0
+  27
+0
+  37
+0
+  40
+26.597736586761478
+  41
+1
+  42
+50
+  43
+0
+  44
+0
+  50
+0
+  51
+0
+  71
+0
+  72
+100
+  73
+1
+  74
+3
+  75
+0
+  76
+0
+  77
+0
+  78
+0
+  281
+0
+  65
+1
+  110
+0
+  120
+0
+  130
+0
+  111
+1
+  121
+0
+  131
+0
+  112
+0
+  122
+1
+  132
+0
+  79
+0
+  146
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+AB
+  330
+0
+  100
+AcDbSymbolTable
+  70
+8
+  0
+LTYPE
+  5
+1C
+  330
+AB
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+BYLAYER
+  70
+0
+  3
+BYLAYER________________________________________
+  72
+65
+  73
+0
+  40
+0
+  0
+LTYPE
+  5
+1D
+  330
+AB
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+BYBLOCK
+  70
+0
+  3
+BYBLOCK________________________________________
+  72
+65
+  73
+0
+  40
+0
+  0
+LTYPE
+  5
+1E
+  330
+AB
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+DASHED0
+  70
+0
+  3
+Dashed0 __ __ __ __ __ __ __ __ __ __ __ __ __ _
+  72
+65
+  73
+2
+  40
+1
+  49
+0.5
+  74
+0
+  49
+-0.5
+  74
+0
+  0
+LTYPE
+  5
+1F
+  330
+AB
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+DOT0
+  70
+0
+  3
+Dot0 ........................................
+  72
+65
+  73
+8
+  40
+1
+  49
+0
+  74
+0
+  49
+-0.25
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.25
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.25
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.25
+  74
+0
+  0
+LTYPE
+  5
+20
+  330
+AB
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+DASHDOT0
+  70
+0
+  3
+Dashdot __ . __ . __ . __ . __ . __ . __ . __
+  72
+65
+  73
+4
+  40
+1
+  49
+0.4
+  74
+0
+  49
+-0.3
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.3
+  74
+0
+  0
+LTYPE
+  5
+21
+  330
+AB
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+DASHDOTDOT0
+  70
+0
+  3
+Dashdot __ . . __ . . __ . . __ . . __ . . __ . . __ . . __
+  72
+65
+  73
+6
+  40
+1
+  49
+0.3
+  74
+0
+  49
+-0.23
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.24
+  74
+0
+  49
+0
+  74
+0
+  49
+-0.23
+  74
+0
+  0
+LTYPE
+  5
+22
+  330
+AB
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLinetypeTableRecord
+  2
+INVISIBLE
+  70
+0
+  3
+Invisible(                        )
+  72
+65
+  73
+2
+  40
+2
+  49
+-1
+  74
+0
+  49
+-1
+  74
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+AD
+  102
+{ACAD_XDICTIONARY
+  360
+AE
+  102
+}
+  330
+0
+  100
+AcDbSymbolTable
+  70
+7
+  0
+LAYER
+  5
+62
+  330
+AD
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+0
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+-3
+  390
+AC
+  0
+LAYER
+  5
+6C
+  330
+AD
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+AC
+  0
+LAYER
+  5
+6D
+  330
+AD
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+AC
+  0
+LAYER
+  5
+6E
+  330
+AD
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+AC
+  0
+LAYER
+  5
+6F
+  330
+AD
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+AC
+  0
+LAYER
+  5
+70
+  330
+AD
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+AC
+  0
+LAYER
+  5
+71
+  330
+AD
+  100
+AcDbSymbolTableRecord
+  100
+AcDbLayerTableRecord
+  2
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  70
+0
+  62
+7
+  6
+Continuous
+  370
+25
+  390
+AC
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+AF
+  330
+0
+  100
+AcDbSymbolTable
+  70
+1
+  0
+STYLE
+  5
+64
+  330
+AF
+  100
+AcDbSymbolTableRecord
+  100
+AcDbTextStyleTableRecord
+  2
+STANDARD
+  70
+0
+  40
+1
+  41
+1
+  50
+0
+  71
+0
+  42
+0.2
+  3
+Arial
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+B0
+  330
+0
+  100
+AcDbSymbolTable
+  70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+B1
+  330
+0
+  100
+AcDbSymbolTable
+  70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+B2
+  330
+0
+  100
+AcDbSymbolTable
+  70
+20
+  0
+APPID
+  5
+B3
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+AcAecLayerStandard
+  70
+0
+  0
+APPID
+  5
+B4
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+VDEXTRAPARAM
+  70
+0
+  0
+APPID
+  5
+B5
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+VDEXTRASOLID2D
+  70
+0
+  0
+APPID
+  5
+B6
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+VD_TEMPHATCH
+  70
+0
+  0
+APPID
+  5
+B7
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+ACAD
+  70
+0
+  0
+APPID
+  5
+B8
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+PE_URL
+  70
+0
+  0
+APPID
+  5
+B9
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+Configuration
+  70
+0
+  0
+APPID
+  5
+BA
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+HoleID
+  70
+0
+  0
+APPID
+  5
+BB
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+RingID
+  70
+0
+  0
+APPID
+  5
+BC
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+Type
+  70
+0
+  0
+APPID
+  5
+BD
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+PivotID
+  70
+0
+  0
+APPID
+  5
+BE
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+UpHole
+  70
+0
+  0
+APPID
+  5
+BF
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+BreakThrough
+  70
+0
+  0
+APPID
+  5
+C0
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+Diameter
+  70
+0
+  0
+APPID
+  5
+C1
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+Explosive
+  70
+0
+  0
+APPID
+  5
+C2
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+ChargeCollar
+  70
+0
+  0
+APPID
+  5
+C3
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+ChargeLength
+  70
+0
+  0
+APPID
+  5
+C4
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+SubDrill
+  70
+0
+  0
+APPID
+  5
+C5
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+HoleLength
+  70
+0
+  0
+APPID
+  5
+C6
+  330
+B2
+  100
+AcDbSymbolTableRecord
+  100
+AcDbRegAppTableRecord
+  2
+RemoteDistance
+  70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+C7
+  330
+0
+  100
+AcDbSymbolTable
+  70
+4
+  0
+BLOCK_RECORD
+  5
+C8
+  330
+C7
+  100
+AcDbSymbolTableRecord
+  100
+AcDbBlockTableRecord
+  2
+*Model_Space
+  340
+1
+  0
+BLOCK_RECORD
+  5
+C9
+  330
+C7
+  100
+AcDbSymbolTableRecord
+  100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+  340
+A8
+  0
+BLOCK_RECORD
+  5
+CA
+  330
+C7
+  100
+AcDbSymbolTableRecord
+  100
+AcDbBlockTableRecord
+  2
+VDDIM_DEFAULT
+  340
+0
+  0
+BLOCK_RECORD
+  5
+CB
+  330
+C7
+  100
+AcDbSymbolTableRecord
+  100
+AcDbBlockTableRecord
+  2
+VDDIM_NONE
+  340
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+CC
+  330
+0
+  100
+AcDbSymbolTable
+  70
+1
+  100
+AcDbDimStyleTable
+  71
+1
+  340
+69
+  0
+DIMSTYLE
+  105
+69
+  330
+CC
+  100
+AcDbSymbolTableRecord
+  100
+AcDbDimStyleTableRecord
+  2
+STANDARD
+  70
+0
+  41
+0.2
+  3
+
+  177
+0
+  42
+0.05
+  44
+0.2
+  75
+0
+  76
+0
+  40
+1
+  172
+1
+  281
+0
+  282
+0
+  275
+1
+  277
+2
+  179
+4
+  71
+0
+  47
+1
+  48
+1
+  78
+1
+  176
+0
+  178
+0
+  140
+1
+  147
+0.09
+  280
+0
+  77
+1
+  73
+0
+  271
+4
+  173
+1
+  340
+64
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+CD
+  330
+C8
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockBegin
+  2
+*Model_Space
+  70
+0
+  71
+0
+  10
+0
+  20
+0
+  30
+0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+CE
+  330
+C8
+  100
+AcDbEntity
+  67
+1
+  8
+0
+  100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+CF
+  330
+C9
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockBegin
+  2
+*Paper_Space
+  70
+0
+  71
+0
+  10
+0
+  20
+0
+  30
+0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+D0
+  330
+C9
+  100
+AcDbEntity
+  67
+1
+  8
+0
+  100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+65
+  330
+CA
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockBegin
+  2
+VDDIM_DEFAULT
+  70
+0
+  71
+0
+  10
+0
+  20
+0
+  30
+0
+  3
+VDDIM_DEFAULT
+  1
+
+  0
+HATCH
+  5
+66
+  330
+CA
+  100
+AcDbEntity
+  8
+0
+  62
+0
+  370
+-2
+  100
+AcDbHatch
+  10
+0
+  20
+0
+  30
+0
+  210
+0
+  220
+0
+  230
+-1
+  2
+SOLID
+  70
+1
+  71
+0
+  91
+1
+  92
+2
+  72
+0
+  73
+1
+  93
+3
+  10
+0
+  20
+0
+  10
+1
+  20
+-0.1665
+  10
+1
+  20
+0.1665
+  97
+0
+  75
+0
+  76
+1
+  98
+1
+  10
+0
+  20
+0
+  0
+ENDBLK
+  5
+D1
+  330
+CA
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+68
+  330
+CB
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockBegin
+  2
+VDDIM_NONE
+  70
+0
+  71
+0
+  10
+0
+  20
+0
+  30
+0
+  3
+VDDIM_NONE
+  1
+
+  0
+ENDBLK
+  5
+D2
+  330
+CB
+  100
+AcDbEntity
+  8
+0
+  100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+D3
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+3
+  43
+0
+  38
+-995.63430481104888
+  10
+7119.9138069205264
+  20
+-23239.292663425913
+  10
+7119.8482796754624
+  20
+-23237.982118524636
+  10
+7118.7343165093762
+  20
+-23221.600307258654
+  1001
+Configuration
+  1000
+COPY TEMPLATE SETTINGS FROM HERE
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+D4
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7113.8890608764741
+  20
+-23223.851988535425
+  10
+7123.7906238569267
+  20
+-23222.452327667881
+  1001
+RingID
+  1000
+SL1
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+D5
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7114.3341530323542
+  20
+-23227.000685563209
+  10
+7124.2357160128067
+  20
+-23225.601024695665
+  1001
+RingID
+  1000
+SL1
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+D6
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6.4919723247515559
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+D7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7122.1544331801751
+  20
+-23222.683615603593
+  30
+-991.89609900547941
+  70
+32
+  0
+VERTEX
+  5
+D8
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.7971354547672
+  20
+-23222.027334498656
+  30
+-987.406075022677
+  70
+32
+  0
+SEQEND
+  5
+D9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6.4919723247515559
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+DA
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+5.3024816110392345
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+DB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7122.5829860664771
+  20
+-23222.6230364096
+  30
+-992.127429663955
+  70
+32
+  0
+VERTEX
+  5
+DC
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.9869072274
+  20
+-23222.000508822304
+  30
+-989.24051971613187
+  70
+32
+  0
+SEQEND
+  5
+DD
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+5.3024816110392345
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+DE
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.3232773468673074
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+DF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7123.3252034137995
+  20
+-23222.518118370062
+  30
+-992.52807479592377
+  70
+32
+  0
+VERTEX
+  5
+E0
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.3664507726689
+  20
+-23221.946857469589
+  30
+-991.10234418113112
+  70
+32
+  0
+SEQEND
+  5
+E1
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.3232773468673074
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+E2
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.3377023965888331
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+E3
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7124.0989099508779
+  20
+-23222.408749095226
+  30
+-993.25352716397276
+  70
+32
+  0
+VERTEX
+  5
+E4
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.3935610259
+  20
+-23221.94302523011
+  30
+-992.99154841767438
+  70
+32
+  0
+SEQEND
+  5
+E5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.3377023965888331
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+E6
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+1.8211136443594622
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+E7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7125.51639059949
+  20
+-23222.208377477305
+  30
+-994.90808585078219
+  70
+32
+  0
+VERTEX
+  5
+E8
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.3122302662023
+  20
+-23221.954521948552
+  30
+-994.74385379649709
+  70
+32
+  0
+SEQEND
+  5
+E9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+1.8211136443594622
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+EA
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.3451248109649772
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+EB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7125.0922784268123
+  20
+-23222.268328942821
+  30
+-996.15591158402185
+  70
+32
+  0
+VERTEX
+  5
+EC
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.3935610259
+  20
+-23221.943025230117
+  30
+-996.46877940377578
+  70
+32
+  0
+SEQEND
+  5
+ED
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.3451248109649772
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+EE
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.54526718327351
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+EF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7124.60290034867
+  20
+-23222.337506238033
+  30
+-996.64183583068723
+  70
+32
+  0
+VERTEX
+  5
+F0
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.040693969815
+  20
+-23221.992905659172
+  30
+-997.28743457294433
+  70
+32
+  0
+SEQEND
+  5
+F1
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL1
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL1
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.54526718327351
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+F2
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7114.1298607547524
+  20
+-23224.830274073542
+  10
+7123.5498239786484
+  20
+-23221.474042129765
+  1001
+RingID
+  1000
+SL2
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+F3
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7115.1971425128741
+  20
+-23227.825822378742
+  10
+7124.61710573677
+  20
+-23224.469590434965
+  1001
+RingID
+  1000
+SL2
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+F4
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.2452879891847211
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+F5
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.9741949729942
+  20
+-23222.391711141714
+  30
+-991.84950389806
+  70
+32
+  0
+VERTEX
+  5
+F6
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.1726069951192
+  20
+-23220.183283366052
+  30
+-986.88087137107141
+  70
+32
+  0
+SEQEND
+  5
+F7
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.2452879891847211
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+F8
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6.9281421178587808
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+F9
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.7413843704162
+  20
+-23222.11836978131
+  30
+-992.432426063323
+  70
+32
+  0
+VERTEX
+  5
+FA
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.2860902291695
+  20
+-23220.142850505945
+  30
+-988.77828953907817
+  70
+32
+  0
+SEQEND
+  5
+FB
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6.9281421178587808
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+FC
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+5.8058218085157547
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+FD
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7122.4124190128041
+  20
+-23221.879287329644
+  30
+-992.84159014364138
+  70
+32
+  0
+VERTEX
+  5
+FE
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.5414275057856
+  20
+-23220.051876570713
+  30
+-990.82629645057648
+  70
+32
+  0
+SEQEND
+  5
+FF
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+5.8058218085157547
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+100
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.9495776946950638
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+101
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7122.7614727411619
+  20
+-23221.75492322701
+  30
+-993.108779331786
+  70
+32
+  0
+VERTEX
+  5
+102
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.3995734632217
+  20
+-23220.102417645841
+  30
+-992.60324362378935
+  70
+32
+  0
+SEQEND
+  5
+103
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.9495776946950638
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+104
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.0966708144630788
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+105
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7123.5972869808129
+  20
+-23221.457131570765
+  30
+-994.48723015640087
+  70
+32
+  0
+VERTEX
+  5
+106
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.456315080246
+  20
+-23220.082201215791
+  30
+-994.50066179179578
+  70
+32
+  0
+SEQEND
+  5
+107
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.0966708144630788
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+108
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.3648755677914766
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+109
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7124.2019394699382
+  20
+-23221.241700368897
+  30
+-995.80007325033648
+  70
+32
+  0
+VERTEX
+  5
+10A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.3712026547082
+  20
+-23220.11252586087
+  30
+-995.855960483229
+  70
+32
+  0
+SEQEND
+  5
+10B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.3648755677914766
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+10C
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.4688493615067433
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+10D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7123.6767121401426
+  20
+-23221.428833237689
+  30
+-996.60500778273865
+  70
+32
+  0
+VERTEX
+  5
+10E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.8888989099933
+  20
+-23220.284365516305
+  30
+-997.24137692336069
+  70
+32
+  0
+SEQEND
+  5
+10F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL2
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL2
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.4688493615067433
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+110
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7114.7503122797634
+  20
+-23226.028917331765
+  10
+7122.9293724536374
+  20
+-23220.275398871541
+  1001
+RingID
+  1000
+SL3
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+111
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7116.579931150115
+  20
+-23228.629858467059
+  10
+7124.758991323989
+  20
+-23222.876340006835
+  1001
+RingID
+  1000
+SL3
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+112
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+113
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.4084064027847
+  20
+-23222.048759673748
+  30
+-992.08360139277079
+  70
+32
+  0
+VERTEX
+  5
+114
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.9628286996194
+  20
+-23217.438084500896
+  30
+-986.10186060891829
+  70
+32
+  0
+SEQEND
+  5
+115
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+116
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+117
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.8203512614
+  20
+-23221.758979149061
+  30
+-992.588943209252
+  70
+32
+  0
+VERTEX
+  5
+118
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.2541287155109
+  20
+-23217.233170979871
+  30
+-988.215893005257
+  70
+32
+  0
+SEQEND
+  5
+119
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+11A
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+11B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.0912378592375
+  20
+-23221.568425343594
+  30
+-992.92620342151486
+  70
+32
+  0
+VERTEX
+  5
+11C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.2923513910046
+  20
+-23217.206283432359
+  30
+-990.37318385394985
+  70
+32
+  0
+SEQEND
+  5
+11D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+11E
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+11F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.3987171521048
+  20
+-23221.352130592113
+  30
+-993.25401079252151
+  70
+32
+  0
+VERTEX
+  5
+120
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.5084233168645
+  20
+-23217.054288730309
+  30
+-992.58315617993685
+  70
+32
+  0
+SEQEND
+  5
+121
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+7
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+122
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+123
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7122.1380069959605
+  20
+-23220.832080895245
+  30
+-994.50227885066715
+  70
+32
+  0
+VERTEX
+  5
+124
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.4530324720072
+  20
+-23217.093253139621
+  30
+-994.64949027265448
+  70
+32
+  0
+SEQEND
+  5
+125
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+8
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+126
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+127
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7122.5492260303135
+  20
+-23220.542810947962
+  30
+-995.68925274640276
+  70
+32
+  0
+VERTEX
+  5
+128
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.4553786003489
+  20
+-23217.091602767523
+  30
+-995.82647174950125
+  70
+32
+  0
+SEQEND
+  5
+129
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+9
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+12A
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+10
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+12B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7122.4277131458757
+  20
+-23220.62828857117
+  30
+-996.12347606352114
+  70
+32
+  0
+VERTEX
+  5
+12C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7127.1613370908317
+  20
+-23217.298444778353
+  30
+-997.70617776099164
+  70
+32
+  0
+SEQEND
+  5
+12D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+10
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+6
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+12E
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H8
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+11
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+12F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.9985464039828
+  20
+-23220.930183742435
+  30
+-996.89765730230954
+  70
+32
+  0
+VERTEX
+  5
+130
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7123.9253755338514
+  20
+-23219.574765548568
+  30
+-997.734419529004
+  70
+32
+  0
+SEQEND
+  5
+131
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL3
+  1001
+HoleID
+  1000
+H8
+  1001
+RingID
+  1000
+SL3
+  1001
+PivotID
+  1000
+11
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.5
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+132
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7115.494189334906
+  20
+-23226.867882229039
+  10
+7122.1854953984948
+  20
+-23219.436433974268
+  1001
+RingID
+  1000
+SL4
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+133
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7117.8573898799241
+  20
+-23228.99571755726
+  10
+7124.5486959435129
+  20
+-23221.564269302489
+  1001
+RingID
+  1000
+SL4
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+134
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+True
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.759176312416024
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+135
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.0294779921987
+  20
+-23221.8309338879
+  30
+-992.22963868352565
+  70
+32
+  0
+VERTEX
+  5
+136
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7125.881814486449
+  20
+-23215.331255736397
+  30
+-985.96352215041054
+  70
+32
+  0
+SEQEND
+  5
+137
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+True
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+10.759176312416024
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+138
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.845261898697574
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+139
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.2638165663839
+  20
+-23221.5706745347
+  30
+-992.637439667813
+  70
+32
+  0
+VERTEX
+  5
+13A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.0836115976117
+  20
+-23215.107137339288
+  30
+-988.02421361959728
+  70
+32
+  0
+SEQEND
+  5
+13B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.845261898697574
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+13C
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.1095622855908776
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+13D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.576817517087
+  20
+-23221.223051761692
+  30
+-993.18213059727327
+  70
+32
+  0
+VERTEX
+  5
+13E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.2640952155707
+  20
+-23214.90668997445
+  30
+-989.90454441410782
+  70
+32
+  0
+SEQEND
+  5
+13F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+9.1095622855908776
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+140
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.6842448226521061
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+141
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.7281290206029
+  20
+-23221.055003312249
+  30
+-993.56228588534225
+  70
+32
+  0
+VERTEX
+  5
+142
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.4010774263579
+  20
+-23214.754555816839
+  30
+-991.68129522004119
+  70
+32
+  0
+SEQEND
+  5
+143
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.6842448226521061
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+144
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.29784071999069
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+145
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.8788320176309
+  20
+-23220.887630677727
+  30
+-994.04649045279575
+  70
+32
+  0
+VERTEX
+  5
+146
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.4246827247362
+  20
+-23214.728339477049
+  30
+-993.64545123517553
+  70
+32
+  0
+SEQEND
+  5
+147
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+8.29784071999069
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+148
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.3456747195738865
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+149
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.4105811801783
+  20
+-23220.297063403053
+  30
+-995.52001089154908
+  70
+32
+  0
+VERTEX
+  5
+14A
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.3257705408278
+  20
+-23214.838192586365
+  30
+-995.49592684158961
+  70
+32
+  0
+SEQEND
+  5
+14B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.3456747195738865
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+14C
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.5529024221468273
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+14D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.4193156261308
+  20
+-23220.287362818071
+  30
+-995.97014944309467
+  70
+32
+  0
+VERTEX
+  5
+14E
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.441490210239
+  20
+-23214.709672873309
+  30
+-996.81482235333488
+  70
+32
+  0
+SEQEND
+  5
+14F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.5529024221468273
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+150
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H8
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+True
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.6422568464133827
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+151
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.2378544153835
+  20
+-23220.488895909682
+  30
+-996.27501910022636
+  70
+32
+  0
+VERTEX
+  5
+152
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7126.247049853202
+  20
+-23214.925620767222
+  30
+-997.81190571334241
+  70
+32
+  0
+SEQEND
+  5
+153
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  1001
+HoleID
+  1000
+H8
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+True
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+7.6422568464133827
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+154
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H9
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+True
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.628819347409133
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+155
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.068768920557
+  20
+-23220.676684376311
+  30
+-996.6770421010026
+  70
+32
+  0
+VERTEX
+  5
+156
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7123.398256187289
+  20
+-23218.089526664742
+  30
+-997.70097271668908
+  70
+32
+  0
+SEQEND
+  5
+157
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL4
+  1001
+HoleID
+  1000
+H9
+  1001
+RingID
+  1000
+SL4
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+True
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.628819347409133
+  1001
+RemoteDistance
+  1040
+-1
+  0
+LWPOLYLINE
+  5
+158
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+7
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7116.3920242378053
+  20
+-23227.511995989447
+  10
+7121.2876604955954
+  20
+-23218.792320213859
+  1001
+RingID
+  1000
+SL5
+  1001
+Type
+  1000
+Ring Section
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+LWPOLYLINE
+  5
+159
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT
+  62
+1
+  420
+16711680
+  100
+AcDbPolyline
+  90
+2
+  43
+0
+  38
+-995.63430481104888
+  10
+7119.164881134443
+  20
+-23229.068808319425
+  10
+7124.0605173922331
+  20
+-23220.349132543837
+  1001
+RingID
+  1000
+SL5
+  1001
+Type
+  1000
+Laser Line
+  1001
+Configuration
+  1000
+095 3W MPR02A LHS 01E EXST_SLIPE
+  1001
+HoleID
+  1000
+
+  0
+POLYLINE
+  5
+15A
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+5.99641377683494
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+15B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7119.5774354509331
+  20
+-23221.83842231533
+  30
+-991.87248504201546
+  70
+32
+  0
+VERTEX
+  5
+15C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.6000194793287
+  20
+-23218.235973925
+  30
+-987.5263951181762
+  70
+32
+  0
+SEQEND
+  5
+15D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  1001
+HoleID
+  1000
+H1
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+5.99641377683494
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+15E
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.8779056917335675
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+15F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7119.6770838740358
+  20
+-23221.66093732763
+  30
+-992.2819032485902
+  70
+32
+  0
+VERTEX
+  5
+160
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.6245937364138
+  20
+-23218.192204424384
+  30
+-989.4589506596634
+  70
+32
+  0
+SEQEND
+  5
+161
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  1001
+HoleID
+  1000
+H2
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+1
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.8779056917335675
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+162
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.0419259899081545
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+163
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7119.8131662962487
+  20
+-23221.418559312191
+  30
+-992.67625131911518
+  70
+32
+  0
+VERTEX
+  5
+164
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.6000194793278
+  20
+-23218.235973925002
+  30
+-990.9397399706736
+  70
+32
+  0
+SEQEND
+  5
+165
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  1001
+HoleID
+  1000
+H3
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+2
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+4.0419259899081545
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+166
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.4921711002203559
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+167
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7119.9449988780016
+  20
+-23221.183750737986
+  30
+-993.01714684038677
+  70
+32
+  0
+VERTEX
+  5
+168
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.6123066078753
+  20
+-23218.214089174689
+  30
+-992.24484241427581
+  70
+32
+  0
+SEQEND
+  5
+169
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  1001
+HoleID
+  1000
+H4
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+3
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+3.4921711002203559
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+16A
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.9426899872016428
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+16B
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.1856631751907
+  20
+-23220.755100705228
+  30
+-994.11967188376707
+  70
+32
+  0
+VERTEX
+  5
+16C
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.6245937364138
+  20
+-23218.192204424384
+  30
+-993.976612964441
+  70
+32
+  0
+SEQEND
+  5
+16D
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  1001
+HoleID
+  1000
+H5
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+4
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.9426899872016428
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+16E
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.2194025094608345
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+16F
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.5145335059869
+  20
+-23220.169345860351
+  30
+-995.68056919863307
+  70
+32
+  0
+VERTEX
+  5
+170
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.6000194793287
+  20
+-23218.235973925002
+  30
+-995.58289289502829
+  70
+32
+  0
+SEQEND
+  5
+171
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  1001
+HoleID
+  1000
+H6
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+5
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.2194025094608345
+  1001
+RemoteDistance
+  1040
+-1
+  0
+POLYLINE
+  5
+172
+  330
+C8
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  62
+7
+  100
+AcDb3dPolyline
+  10
+0
+  20
+0
+  30
+0
+  70
+8
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.710664663154736
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VERTEX
+  5
+173
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7120.2410825220531
+  20
+-23220.656392649547
+  30
+-996.9466817975
+  70
+32
+  0
+VERTEX
+  5
+174
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  6
+BYLAYER
+  62
+7
+  100
+AcDbVertex
+  100
+AcDb3dPolylineVertex
+  10
+7121.5385838366046
+  20
+-23218.345397676563
+  30
+-997.51544843651607
+  70
+32
+  0
+SEQEND
+  5
+175
+  330
+
+  100
+AcDbEntity
+  8
+RINGDESIGN_095 3W MPR02A LHS 01E EXST_SLIPE_SURVEYEXPORT_SL5
+  1001
+HoleID
+  1000
+H7
+  1001
+RingID
+  1000
+SL5
+  1001
+PivotID
+  1000
+6
+  1001
+UpHole
+  1000
+False
+  1001
+BreakThrough
+  1000
+False
+  1001
+Diameter
+  1000
+76 mm
+  1001
+Explosive
+  1000
+
+  1001
+ChargeCollar
+  1000
+0
+  1001
+ChargeLength
+  1000
+0
+  1001
+SubDrill
+  1040
+0
+  1001
+HoleLength
+  1040
+2.710664663154736
+  1001
+RemoteDistance
+  1040
+-1
+  0
+VIEWPORT
+  5
+176
+  330
+C9
+  100
+AcDbEntity
+  67
+1
+  8
+0
+  100
+AcDbViewport
+  10
+105.029
+  20
+148.463
+  40
+24.97
+  41
+312.78718378906251
+  68
+1
+  69
+1
+  12
+105.029
+  22
+148.463
+  13
+0
+  23
+0
+  14
+1
+  24
+1
+  15
+1
+  25
+1
+  16
+0
+  26
+0
+  36
+1
+  17
+0
+  27
+0
+  37
+0
+  42
+50
+  43
+0
+  44
+0
+  45
+312.78718378906251
+  50
+0
+  51
+0
+  72
+1000
+  90
+32800
+  1
+
+  281
+0
+  71
+1
+  74
+0
+  110
+0
+  120
+0
+  130
+0
+  111
+1
+  121
+0
+  131
+0
+  112
+0
+  122
+1
+  132
+0
+  79
+0
+  146
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+177
+  330
+0
+  100
+AcDbDictionary
+  281
+1
+  3
+ACAD_GROUP
+  350
+178
+  3
+ACAD_LAYOUT
+  350
+179
+  3
+ACAD_MLINESTYLE
+  350
+17A
+  3
+ACAD_PLOTSETTINGS
+  350
+17B
+  3
+ACAD_PLOTSTYLENAME
+  350
+17C
+  3
+VECTORDRAW_OBJECTS
+  350
+17D
+  3
+DWGPROPS
+  350
+17E
+  0
+DICTIONARY
+  5
+AE
+  330
+AD
+  100
+AcDbDictionary
+  280
+1
+  281
+1
+  3
+ACAD_LAYERFILTERS
+  360
+17F
+  3
+ACAD_LAYERSTATES
+  360
+180
+  3
+ACLYDICTIONARY
+  360
+181
+  0
+DICTIONARY
+  5
+17F
+  102
+{ACAD_REACTORS
+  330
+AE
+  102
+}
+  330
+AE
+  100
+AcDbDictionary
+  281
+1
+  0
+DICTIONARY
+  5
+180
+  102
+{ACAD_REACTORS
+  330
+AE
+  102
+}
+  330
+AE
+  100
+AcDbDictionary
+  281
+1
+  0
+DICTIONARY
+  5
+181
+  102
+{ACAD_REACTORS
+  330
+AE
+  102
+}
+  330
+AE
+  100
+AcDbDictionary
+  281
+1
+  1001
+ACAD
+  1000
+<All
+  0
+DICTIONARY
+  5
+178
+  102
+{ACAD_REACTORS
+  330
+177
+  102
+}
+  330
+177
+  100
+AcDbDictionary
+  281
+1
+  0
+DICTIONARY
+  5
+179
+  102
+{ACAD_REACTORS
+  330
+177
+  102
+}
+  330
+177
+  100
+AcDbDictionary
+  281
+1
+  3
+Layout1
+  350
+A8
+  3
+Model
+  350
+1
+  0
+DICTIONARY
+  5
+17A
+  102
+{ACAD_REACTORS
+  330
+177
+  102
+}
+  330
+177
+  100
+AcDbDictionary
+  281
+1
+  3
+Standard
+  350
+63
+  0
+DICTIONARY
+  5
+17B
+  102
+{ACAD_REACTORS
+  330
+177
+  102
+}
+  330
+177
+  100
+AcDbDictionary
+  281
+1
+  0
+ACDBDICTIONARYWDFLT
+  5
+17C
+  102
+{ACAD_REACTORS
+  330
+177
+  102
+}
+  330
+177
+  100
+AcDbDictionary
+  281
+1
+  3
+Normal
+  350
+AC
+  100
+AcDbDictionaryWithDefault
+  340
+AC
+  0
+DICTIONARY
+  5
+17D
+  102
+{ACAD_REACTORS
+  330
+177
+  102
+}
+  330
+177
+  100
+AcDbDictionary
+  281
+1
+  3
+SERIALNO
+  350
+182
+  0
+LAYOUT
+  5
+A8
+  102
+{ACAD_REACTORS
+  330
+179
+  102
+}
+  330
+179
+  100
+AcDbPlotSettings
+  1
+
+  2
+
+  4
+
+  6
+
+  40
+0
+  41
+0
+  42
+0
+  43
+0
+  44
+210.058
+  45
+296.926
+  46
+0
+  47
+0
+  48
+0
+  49
+0
+  140
+210.058
+  141
+296.926
+  142
+1
+  143
+1
+  70
+688
+  72
+1
+  73
+0
+  74
+4
+  75
+16
+  147
+1
+  148
+0
+  149
+0
+  100
+AcDbLayout
+  1
+Layout1
+  70
+0
+  71
+1
+  10
+0
+  20
+0
+  11
+12
+  21
+9
+  12
+0
+  22
+0
+  32
+0
+  14
+0
+  24
+0
+  34
+0
+  15
+0
+  25
+0
+  35
+0
+  146
+0
+  13
+0
+  23
+0
+  33
+0
+  16
+1
+  26
+0
+  36
+0
+  17
+0
+  27
+1
+  37
+0
+  76
+0
+  330
+C9
+  0
+LAYOUT
+  5
+1
+  102
+{ACAD_REACTORS
+  330
+179
+  102
+}
+  330
+179
+  100
+AcDbPlotSettings
+  1
+VectorDraw Printer Drawing
+  2
+
+  4
+
+  6
+
+  40
+0
+  41
+0
+  42
+0
+  43
+0
+  44
+210.058
+  45
+296.926
+  46
+0
+  47
+0
+  48
+-15.006466144776233
+  49
+-19.742649837605942
+  140
+11.921677107659299
+  141
+6.8550867491555358
+  142
+1
+  143
+0.12819384766319555
+  72
+1
+  73
+0
+  74
+4
+  75
+0
+  147
+1
+  148
+15.006466144776233
+  149
+19.742649837605942
+  100
+AcDbLayout
+  1
+Model
+  70
+1
+  71
+0
+  10
+10
+  20
+0
+  11
+0
+  21
+10
+  12
+0
+  22
+0
+  32
+0
+  14
+7127.5414275057856
+  24
+-23239.292663425913
+  34
+7113.8890608764741
+  15
+-23214.709672873309
+  25
+-997.81190571334241
+  35
+-997.81190571334241
+  146
+0
+  13
+0
+  23
+0
+  33
+0
+  16
+1
+  26
+0
+  36
+0
+  17
+0
+  27
+1
+  37
+0
+  76
+0
+  330
+C8
+  0
+MLINESTYLE
+  5
+63
+  102
+{ACAD_REACTORS
+  330
+17A
+  102
+}
+  330
+17A
+  100
+AcDbMlineStyle
+  2
+Standard
+  70
+0
+  3
+
+  62
+0
+  51
+90
+  52
+90
+  71
+2
+  49
+0.5
+  62
+7
+  6
+Continuous
+  49
+-0.5
+  62
+7
+  6
+Continuous
+  0
+ACDBPLACEHOLDER
+  5
+AC
+  102
+{ACAD_REACTORS
+  330
+17C
+  102
+}
+  330
+17C
+  0
+XRECORD
+  5
+182
+  102
+{ACAD_REACTORS
+  330
+17D
+  102
+}
+  330
+17D
+  100
+AcDbXrecord
+  280
+1
+  1000
+udnjVM6OT3ptXXPNDrqErnGX8
+  1070
+5
+  1070
+1
+  0
+XRECORD
+  5
+17E
+  102
+{ACAD_REACTORS
+  330
+177
+  102
+}
+  330
+177
+  100
+AcDbXrecord
+  280
+1
+  1
+DWGPROPS COOKIE
+  2
+
+  3
+
+  4
+
+  6
+
+  7
+
+  8
+
+  9
+
+  40
+0
+  41
+0
+  42
+0
+  1
+
+  90
+0
+  0
+ENDSEC
+  999
+Created By VectorDraw :7.7012.0.1
+  0
+EOF
